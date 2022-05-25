@@ -6,7 +6,7 @@ define('MODELS_PATH', '../Models/');
 define('CSS_PATH', '../css/');
 define('JS_PATH', '../js/');
 define('IMG_PATH', '../img/');
-
+<p>Hola</p>
 
 include(VIEWS_PATH . "header.php");
 ?>
@@ -17,7 +17,7 @@ include(VIEWS_PATH . "header.php");
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="../css/styles.css">
     <link rel="stylesheet" href="../css/bootstrap.min.css">
-    <title>KonEventos</title>
+    <title>Konrad Teck</title>
     <link rel="icon" type="imagen/x-icon" href="../img/logo.jpg">
 
 
@@ -28,34 +28,30 @@ include(VIEWS_PATH . "header.php");
     <div>
         <header>
             <nav>
-                <a href="index.html" class="logo">
+                <a href="inicio.php" class="logo">
                     <img src="../img/logo.jpg" alt="logo de la compañia">
                     <h2 class="nombre-empresa">Konrad Teck</h2>
                 </a>
             </nav>
             <nav class="navbar navbar-expand-lg navbar-light bg-light">
                 <div class="container-fluid">
-                  <a class="navbar-brand" href="index.html">INICIO</a>
+                  <a class="navbar-brand" href="inicio.php">INICIO</a>
                   <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                   </button>
                   <div class="collapse navbar-collapse" id="navbarNavDropdown">
                     <ul class="navbar-nav">
                       <li class="nav-item">
-                        <a class="nav-link active" aria-current="page" href="servicios.html">PC GAMER</a>
+                        <a class="nav-link active" aria-current="page" href="pc_gamer.php">PC GAMER</a>
                       </li>
                       <li class="nav-item">
-                        <a class="nav-link" href="personal.html">PC PARA TRABAJO</a>
+                        <a class="nav-link" href="pc_trabajo.php">PC PARA TRABAJO</a>
                       </li>
                       <li class="nav-item">
-                        <a class="nav-link" href="empleos.html">COMPONENTES Y ACCESORIOS</a>
-                        <a class="nav-link" href="empleos.html">COMPONENTES Y ACCESORIOS</a>
+                        <a class="nav-link" href="accesorios.php">COMPONENTES Y ACCESORIOS</a>
                       </li>
-                          <li><a class="dropdown-item" href="opiniones.html">ARMA TU EQUIPO</a></li>
-                          <li><a class="dropdown-item" href="acercade.html">A CERCA DE </a></li>
-                          <li><a class="dropdown-item" href="acercade.html">Hola como estan</a></li>
-
-                          
+                          <li><a class="dropdown-item" href="armar.php">ARMA TU EQUIPO</a></li>
+                          <li><a class="dropdown-item" href="acerca_de.php">A CERCA DE </a></li>
                         </ul>
                       </li>
                     </ul>
@@ -70,10 +66,10 @@ include(VIEWS_PATH . "header.php");
       <img src="../img/imagen1.jpg" class="d-block w-100" alt="...">
     </div>
     <div class="carousel-item" data-bs-interval="2000">
-      <img src="../img/imagen2.jpg" class="d-block w-100" alt="...">
+      <img src="../img/imagen2.jpeg" class="d-block w-100" alt="...">
     </div>
     <div class="carousel-item">
-      <img src="..." class="d-block w-100" alt="...">
+      <img src="../img/imagen3.jpg" class="d-block w-100" alt="...">
     </div>
   </div>
   <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleInterval" data-bs-slide="prev">
@@ -90,42 +86,43 @@ include(VIEWS_PATH . "header.php");
 <br>
 
 <div class="container-fluid">
-        <div class="row">
-            <div class="col-md-12">
-                <img src="img/principalarcade.jpg" height="450px" width="100%" class="imgprincipal">
-            </div>
-        </div>
+
         <div class="row">
             <div class="col-md-4">
                 <div class="card" style="width: 23rem;">
-                    <img src="img/acercade1.jpg" class="card-img-top" height="300px">
+                    <img src="../img/cpu.jpg" class="card-img-top" height="300px">
                     <div class="card-body">
-                        <h2>Vision</h2>
-                        <p class="card-text">nuestra visión es ser una de las mejores páginas web organizando
-                            reuniones sociales para celebrar festividades y que la gente se sienta satisfecha
-
-                        </p>
+                        <h2>CPU GAMER</h2>
+                        <p class="card-text">AMD RYZEN 3600, DISCO DURO: 240GB,
+                          16GB RAM, BOARD GIGABYTE B450 DS3H
+GRAFICOS GEFORCE 1030 2 GB
+<br>
+<a class="btn btn-primary" href="pc_gamer.php" role="button">VER MÁS</a>
                     </div>
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="card" style="width: 23rem;">
-                    <img src="img/acercade2.jpg" class="card-img-top" alt="..." height="300px">
+                    <img src="../img/tarjeta.jpg" class="card-img-top" alt="..." height="300px">
                     <div class="card-body">
-                        <h2>Historia</h2>
-                        <p class="card-text">Creada a principios de 2020 con la finalidad de ser una de las mejores 
-                            opciones al momento de organizar una festividad 
+                        <h2>TARJETA GRAFICAS</h2>
+                        <p class="card-text">la tarjeta de video sirve para que puedas disfrutar a 
+                          lo grande de todos tus videojuegos, así como para utilizar aplicaciones para editar fotografías o videos 
+                          <br>
+                          <a class="btn btn-primary" href="accesorios.php" role="button">VER MÁS</a>
                         </p>
                     </div>
                 </div>
             </div>
             <div class="col-md-3">
                 <div class="card" style="width: 23rem;">
-                    <img src="img/acercade3.jpg" class="card-img-top" height="300px">
+                    <img src="../img/mouse.jpg" class="card-img-top" height="300px">
                     <div class="card-body">
-                        <h2>misión</h2>
-                        <p class="card-text">ser una página influyente que cree espacios de esparcimiento
-                            para toda la comunidad comprometiéndonos con la sociedad
+                        <h2>ACCESORIOS</h2>
+                        <p class="card-text">Los accesorios ter permitiran una mayor usabilidad con tu PC, contamos con mouse, teclados,
+                          tarjetas graficas, diademas
+                          <br>
+                          <a class="btn btn-primary" href="accesorios.php" role="button">VER MÁS</a>
 
                         </p>
                     </div>
@@ -142,8 +139,7 @@ include(VIEWS_PATH . "header.php");
 </body>
             <div>
                 <h1 class="titulo">
-                    ¡Organiza Tus eventos con nosotros!
-                </h1>
+¡Pregunta por nuestros productos de excelente calidad!                </h1>
                 <p class="texto">
                     Durante la pandemia del covid-19 se logro llegar a la conclusion que el dicho
                     "disfruta todos los dias como si fuera el ultimo", tiene mucha razon. Algunas familias perdieron
@@ -164,8 +160,42 @@ include(VIEWS_PATH . "header.php");
         </div>
 
     </div>
+    <hr>
+<div class="container3">
+  <footer>
+    <div class="row">
+      <div class="col-12 col-md-6 order-2 order-md-1">
+      <svg xmlns="http://www.w3.org/2000/svg" width="70" height="70" fill="currentColor" class="bi bi-headset" viewBox="0 0 16 16">
+  <path d="M8 1a5 5 0 0 0-5 5v1h1a1 1 0 0 1 1 1v3a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1V6a6 6 0 1 1 12 0v6a2.5 2.5 0 0 1-2.5 2.5H9.366a1 1 0 0 1-.866.5h-1a1 1 0 1 1 0-2h1a1 1 0 0 1 .866.5H11.5A1.5 1.5 0 0 0 13 12h-1a1 1 0 0 1-1-1V8a1 1 0 0 1 1-1h1V6a5 5 0 0 0-5-5z"/>
+  <span class="call-us-text">¿Algún problema con el uso de la página? (WhatsApp)
+    <br> 314-585-7740
+  </span>
+</svg>  
+<br> 
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" fill="currentColor" class="bi bi-credit-card" viewBox="0 0 16 16">
+  <path d="M0 4a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V4zm2-1a1 1 0 0 0-1 1v1h14V4a1 1 0 0 0-1-1H2zm13 4H1v5a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1V7z"/>
+  <path d="M2 10a1 1 0 0 1 1-1h1a1 1 0 0 1 1 1v1a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1v-1z"/>
+</svg>   </div>
 
-    <script src="js/bootstrap.min.js"></script>
+      <div class="col-12 col-md-6 order-1 order-md-2">
+        <ul class="payment">
+
+  
+  
+</ul>
+
+      </div>
+
+    </div>
+  </footer>
+
+</div>
+
+  
+
+    
+
+    <script src="../js/bootstrap.min.js"></script>
 
 
 </body>

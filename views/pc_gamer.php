@@ -71,7 +71,7 @@ include(VIEWS_PATH . "header.php");
   <div class="price-mob mb-2">
     
     
-    <h4> $100.000</h4> 
+    <h4> $2.900.000</h4> 
     
     
   </div>
@@ -85,7 +85,7 @@ include(VIEWS_PATH . "header.php");
     
     <div class="col-md-3 col-6 product-block">
       
-<a href="/smartphone-mtk6572"><img class="img-fluid img-portfolio img-hover mb-3" src="https://cdnx.jumpseller.com/bootstrap/image/429445/resize/255/320?1439529548"  alt="Smartphone MTK6572 " /></a>
+<a href="/smartphone-mtk6572"><img class="img-fluid img-portfolio img-hover mb-3" src="../img/"  alt="Smartphone MTK6572 " /></a>
 
 <div class="caption">
   <h3><a href="/smartphone-mtk6572">Smartphone MTK6572 </a></h3>
