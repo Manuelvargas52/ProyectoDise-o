@@ -52,6 +52,9 @@ include(VIEWS_PATH . "header.php");
                       </li>
                           <li><a class="dropdown-item" href="opiniones.html">ARMA TU EQUIPO</a></li>
                           <li><a class="dropdown-item" href="acercade.html">A CERCA DE </a></li>
+                          <li><a class="dropdown-item" href="acercade.html">Hola </a></li>
+
+                          
                         </ul>
                       </li>
                     </ul>
