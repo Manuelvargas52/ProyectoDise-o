@@ -53,7 +53,7 @@ include(VIEWS_PATH . "header.php");
                   </div>
                 </div>
               </nav>
-</header>
+              </header>
               <div id="featured-products-76145" class="container3">
   <!-- Products Section -->
   <div class="row">
@@ -62,16 +62,18 @@ include(VIEWS_PATH . "header.php");
     </div>
 
     
+    <!-- Featured Products -->
+    
     <div class="col-md-3 col-6 product-block">
       
-<a href="/wacom-tablet"><img class="img-fluid img-portfolio img-hover mb-3" src="../img/cpu.jpg"  alt="Wacom Bamboo Tablet" /></a>
+<a href="/wacom-tablet"><img class="img-fluid img-portfolio img-hover mb-3" src="https://cdnx.jumpseller.com/bootstrap/image/429444/resize/255/320?1614272621" srcset="https://cdnx.jumpseller.com/bootstrap/image/429444/resize/255/320?1614272621 1x, https://cdnx.jumpseller.com/bootstrap/image/429444/resize/510/640?1614272621 2x" alt="Wacom Bamboo Tablet" /></a>
 
 <div class="caption">
-  <h3><a href="/wacom-tablet">Cpu Gamer Ryzen 5 3600 16 Gb Disco Solido De 240.</a></h3>
+  <h3><a href="/wacom-tablet">Wacom Bamboo Tablet</a></h3>
   <div class="price-mob mb-2">
     
     
-    <h4> $2.900.000</h4> 
+    $100.000
     
     
   </div>
@@ -85,7 +87,7 @@ include(VIEWS_PATH . "header.php");
     
     <div class="col-md-3 col-6 product-block">
       
-<a href="/smartphone-mtk6572"><img class="img-fluid img-portfolio img-hover mb-3" src="../img/"  alt="Smartphone MTK6572 " /></a>
+<a href="/smartphone-mtk6572"><img class="img-fluid img-portfolio img-hover mb-3" src="https://cdnx.jumpseller.com/bootstrap/image/429445/resize/255/320?1439529548" srcset="https://cdnx.jumpseller.com/bootstrap/image/429445/resize/255/320?1439529548 1x, https://cdnx.jumpseller.com/bootstrap/image/429445/resize/510/640?1439529548 2x" alt="Smartphone MTK6572 " /></a>
 
 <div class="caption">
   <h3><a href="/smartphone-mtk6572">Smartphone MTK6572 </a></h3>
@@ -328,7 +330,7 @@ include(VIEWS_PATH . "header.php");
     </div>
     
     
-  </div>
+  </div><!-- /.row -->
 </div>
 
 </div><div id='component-77796'>
@@ -336,15 +338,42 @@ include(VIEWS_PATH . "header.php");
 
   <div class="blog_list row mb-md-5 mb-4 mx-n2 justify-content-center">
     
-   
-    
-
-  
-    
-   
+    <div class="col-12">
+      <h2 class="page-header">Blog</h2>
     </div>
     
 
+    
+    <div class="col-md-4 mb-4">
+      <a href="https://bootstrap.jumpseller.com/samsung-smartphones" title="Samsung Smartphones">
+        <div class="card shadow-sm">
+          
+          <img class="img-fluid" src="https://cdnx.jumpseller.com/bootstrap/image/937252/thumb/550/280?1479219826" srcset="https://cdnx.jumpseller.com/bootstrap/image/937252/thumb/550/280?1479219826 1x,https://cdnx.jumpseller.com/bootstrap/image/937252/thumb/1100/560?1479219826 2x" alt="Samsung Smartphones" />
+          
+
+          <div class="card-body">
+            <h6>Samsung Smartphones</h6>
+          </div>
+        </div>
+      </a>
+    </div>
+    
+    <div class="col-md-4 mb-4">
+      <a href="https://bootstrap.jumpseller.com/dualshock-4" title="The brand new Dualshock 4">
+        <div class="card shadow-sm">
+          
+          <img class="img-fluid" src="https://cdnx.jumpseller.com/bootstrap/image/937208/thumb/550/280?1479218165" srcset="https://cdnx.jumpseller.com/bootstrap/image/937208/thumb/550/280?1479218165 1x,https://cdnx.jumpseller.com/bootstrap/image/937208/thumb/1100/560?1479218165 2x" alt="The brand new Dualshock 4" />
+          
+
+          <div class="card-body">
+            <h6>The brand new Dualshock 4</h6>
+          </div>
+        </div>
+      </a>
+    </div>
+    
+
+  
 
   </div>
 
@@ -352,7 +381,7 @@ include(VIEWS_PATH . "header.php");
 
 </div></div>
 
-
+              
 <script src="../js/bootstrap.min.js"></script>
 
 </body>
