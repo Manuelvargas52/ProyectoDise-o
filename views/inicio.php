@@ -49,6 +49,7 @@ include(VIEWS_PATH . "header.php");
                       </li>
                       <li class="nav-item">
                         <a class="nav-link" href="empleos.html">COMPONENTES Y ACCESORIOS</a>
+                        <a class="nav-link" href="empleos.html">COMPONENTES Y ACCESORIOS</a>
                       </li>
                           <li><a class="dropdown-item" href="opiniones.html">ARMA TU EQUIPO</a></li>
                           <li><a class="dropdown-item" href="acercade.html">A CERCA DE </a></li>
