@@ -66,12 +66,7 @@ include(VIEWS_PATH . "header.php");
                                             </label>
                                             <input type="password" class="form-control" id="clave" name="clave" />
                                         </div>
-
-                                        <button type="submit" class="btn btn-primary">
-                                            Entrar
-                                        </button>
-                                        <br>
-                                        <div>
+ <div>
                                         <a class="btn btn-primary" href="registrarse.php" role="button">registrarse</a>
                                         </div>
                                     </form>
