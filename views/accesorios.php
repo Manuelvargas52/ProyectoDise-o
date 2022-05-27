@@ -238,10 +238,473 @@ Memoria RAM Trident Z RGB gamer color negro 16GB</a></h3>
 
 </div>
 
+
     </div>
     
     
 </div>
+<main   >
+    <div class="row row-cols-1 row-cols-md-4 mb-4 text-center" >
+      <div class="col">
+        <div class="card mb-4 rounded-3 shadow-sm">
+          <div class="card-header py-3">
+            <h4 class="my-0 fw-normal">Baja </h4>
+          </div>
+          <div class="card-body">
+          <img class="img-fluid img-portfolio img-hover mb-3" src="../img/pc1.png"  alt="Smartphone MTK6572 " />
+            <ul class="list-unstyled mt-3 mb-4">
+            <dl>
+				<dt>
+					Procesador
+				</dt>
+				<dd>
+			Intel Core I5 10400
+				</dd>
+				<dt>
+					Board
+				</dt>
+				<dd>
+				Asus Prime B560M-A
+				</dd>
+				
+				<dt>
+        disco Duro
+				
+				</dt>
+				<dd>
+				DD 200 GB Sata Toshiba
+				</dd>
+				<dt>
+					Unidad (SSD)
+				</dt>
+				<dd>
+          256 CB XPG ASX6000 PRO
+				</dd>
+        <dt>
+          Memoria RAM
+				</dt>
+				<dd>
+          DDR4 8GB 3200 ADATA
+				</dd>
+        <dt>
+          Chip Grafico
+ 				</dt>
+				<dd>
+Ony Ctx 1650 4GB	
+			</dd>
+        
+			</dl> 
+            </ul>
+            <button type="button" class="w-100 btn btn-lg btn-outline-primary">Sign up for free</button>
+          </div>
+        </div>
+      </div>
+      <div class="col">
+        <div class="card mb-4 rounded-3 shadow-sm">
+          <div class="card-header py-3">
+            <h4 class="my-0 fw-normal">Media</h4>
+          </div>
+          <div class="card-body">
+          <img class="img-fluid img-portfolio img-hover mb-3" src="../img/pc2.png"  alt="Smartphone MTK6572 " />
+            <ul class="list-unstyled mt-3 mb-4">
+            <dl>
+            <dt>
+					Procesador
+				</dt>
+				<dd>
+			Intel Core I5 10400
+				</dd>
+				<dt>
+					Board
+				</dt>
+				<dd>
+				Asus Prime B560M-A
+				</dd>
+				
+				<dt>
+        disco Duro
+				
+				</dt>
+				<dd>
+				DD 200 GB Sata Toshiba
+				</dd>
+				<dt>
+					Unidad (SSD)
+				</dt>
+				<dd>
+          256 CB XPG ASX6000 PRO
+				</dd>
+        <dt>
+          Memoria RAM
+				</dt>
+				<dd>
+          DDR4 8GB 3200 ADATA
+				</dd>
+        <dt>
+          Chip Grafico
+ 				</dt>
+				<dd>
+Ony Ctx 1650 4GB	
+			</dd>
+			</dl> 
+            </ul>
+            <button type="button" class="w-100 btn btn-lg btn-primary">Get started</button>
+          </div>
+        </div>
+      </div>
+      <div class="col">
+        <div class="card mb-4 rounded-3 shadow-sm border-primary">
+          <div class="card-header py-3 text-white bg-primary border-primary">
+            <h4 class="my-0 fw-normal">Alta</h4>
+          </div>
+          <div class="card-body">
+          <img class="img-fluid img-portfolio img-hover mb-3" src="../img/pc3.jpg"  alt="Smartphone MTK6572 " />
+
+            <ul class="list-unstyled mt-3 mb-4">
+            <dl>
+            <dt>
+					Procesador
+				</dt>
+				<dd>
+			Intel Core I5 10400
+				</dd>
+				<dt>
+					Board
+				</dt>
+				<dd>
+				Asus Prime B560M-A
+				</dd>
+				
+				<dt>
+        disco Duro
+				
+				</dt>
+				<dd>
+				DD 200 GB Sata Toshiba
+				</dd>
+				<dt>
+					Unidad (SSD)
+				</dt>
+				<dd>
+          256 CB XPG ASX6000 PRO
+				</dd>
+        <dt>
+          Memoria RAM
+				</dt>
+				<dd>
+          DDR4 8GB 3200 ADATA
+				</dd>
+        <dt>
+          Chip Grafico
+ 				</dt>
+				<dd>
+Ony Ctx 1650 4GB	
+			</dd>
+			</dl> 
+            </ul>
+            <button type="button" class="w-100 btn btn-lg btn-primary">Contact us</button>
+          </div>
+        </div>
+        
+      </div>
+      <div class="row row-cols-4 row-cols-md-1 mb-4 text-center">
+      <div class="col">
+        <div class="card mb-4 rounded-2 shadow-sm">
+          <div class="card-header py-2">
+            <h4 class="my-0 fw-normal">Oficina</h4>
+          </div>
+          <div class="card-body">
+          <img class="img-fluid img-portfolio img-hover mb-3" src="../img/oficina.png"  alt="Smartphone MTK6572 " />
+
+            <ul class="list-unstyled mt-3 mb-4">
+            <dl>
+            <dt>
+					Procesador
+				</dt>
+				<dd>
+			Intel Core I5 10400
+				</dd>
+				<dt>
+					Board
+				</dt>
+				<dd>
+				Asus Prime B560M-A
+				</dd>
+				
+				<dt>
+        disco Duro
+				
+				</dt>
+				<dd>
+				DD 200 GB Sata Toshiba
+				</dd>
+				<dt>
+					Unidad (SSD)
+				</dt>
+				<dd>
+          256 CB XPG ASX6000 PRO
+				</dd>
+        <dt>
+          Memoria RAM
+				</dt>
+				<dd>
+          DDR4 8GB 3200 ADATA
+				</dd>
+        <dt>
+          Chip Grafico
+ 				</dt>
+				<dd>
+Ony Ctx 1650 4GB	
+			</dd>
+			</dl> 
+            </ul>
+            <button type="button" class="w-100 btn btn-lg btn-outline-primary">Sign up for free</button>
+          </div>
+        </div>
+        
+      </div>
+</div>
+      
+    </div>
+   
+
+    
+
+        
+      </table>
+    </div>
+  </main>
+  <main   >
+    <div class="row row-cols-1 row-cols-md-4 mb-4 text-center" >
+      <div class="col">
+        <div class="card mb-4 rounded-3 shadow-sm">
+          <div class="card-header py-3">
+            <h4 class="my-0 fw-normal">Baja </h4>
+          </div>
+          <div class="card-body">
+          <img class="img-fluid img-portfolio img-hover mb-3" src="../img/pc1.png"  alt="Smartphone MTK6572 " />
+            <ul class="list-unstyled mt-3 mb-4">
+            <dl>
+				<dt>
+					Procesador
+				</dt>
+				<dd>
+			Intel Core I5 10400
+				</dd>
+				<dt>
+					Board
+				</dt>
+				<dd>
+				Asus Prime B560M-A
+				</dd>
+				
+				<dt>
+        disco Duro
+				
+				</dt>
+				<dd>
+				DD 200 GB Sata Toshiba
+				</dd>
+				<dt>
+					Unidad (SSD)
+				</dt>
+				<dd>
+          256 CB XPG ASX6000 PRO
+				</dd>
+        <dt>
+          Memoria RAM
+				</dt>
+				<dd>
+          DDR4 8GB 3200 ADATA
+				</dd>
+        <dt>
+          Chip Grafico
+ 				</dt>
+				<dd>
+Ony Ctx 1650 4GB	
+			</dd>
+        
+			</dl> 
+            </ul>
+            <button type="button" class="w-100 btn btn-lg btn-outline-primary">Sign up for free</button>
+          </div>
+        </div>
+      </div>
+      <div class="col">
+        <div class="card mb-4 rounded-3 shadow-sm">
+          <div class="card-header py-3">
+            <h4 class="my-0 fw-normal">Media</h4>
+          </div>
+          <div class="card-body">
+          <img class="img-fluid img-portfolio img-hover mb-3" src="../img/pc2.png"  alt="Smartphone MTK6572 " />
+            <ul class="list-unstyled mt-3 mb-4">
+            <dl>
+            <dt>
+					Procesador
+				</dt>
+				<dd>
+			Intel Core I5 10400
+				</dd>
+				<dt>
+					Board
+				</dt>
+				<dd>
+				Asus Prime B560M-A
+				</dd>
+				
+				<dt>
+        disco Duro
+				
+				</dt>
+				<dd>
+				DD 200 GB Sata Toshiba
+				</dd>
+				<dt>
+					Unidad (SSD)
+				</dt>
+				<dd>
+          256 CB XPG ASX6000 PRO
+				</dd>
+        <dt>
+          Memoria RAM
+				</dt>
+				<dd>
+          DDR4 8GB 3200 ADATA
+				</dd>
+        <dt>
+          Chip Grafico
+ 				</dt>
+				<dd>
+Ony Ctx 1650 4GB	
+			</dd>
+			</dl> 
+            </ul>
+            <button type="button" class="w-100 btn btn-lg btn-primary">Get started</button>
+          </div>
+        </div>
+      </div>
+      <div class="col">
+        <div class="card mb-4 rounded-3 shadow-sm border-primary">
+          <div class="card-header py-3 text-white bg-primary border-primary">
+            <h4 class="my-0 fw-normal">Alta</h4>
+          </div>
+          <div class="card-body">
+          <img class="img-fluid img-portfolio img-hover mb-3" src="../img/pc3.jpg"  alt="Smartphone MTK6572 " />
+
+            <ul class="list-unstyled mt-3 mb-4">
+            <dl>
+            <dt>
+					Procesador
+				</dt>
+				<dd>
+			Intel Core I5 10400
+				</dd>
+				<dt>
+					Board
+				</dt>
+				<dd>
+				Asus Prime B560M-A
+				</dd>
+				
+				<dt>
+        disco Duro
+				
+				</dt>
+				<dd>
+				DD 200 GB Sata Toshiba
+				</dd>
+				<dt>
+					Unidad (SSD)
+				</dt>
+				<dd>
+          256 CB XPG ASX6000 PRO
+				</dd>
+        <dt>
+          Memoria RAM
+				</dt>
+				<dd>
+          DDR4 8GB 3200 ADATA
+				</dd>
+        <dt>
+          Chip Grafico
+ 				</dt>
+				<dd>
+Ony Ctx 1650 4GB	
+			</dd>
+			</dl> 
+            </ul>
+            <button type="button" class="w-100 btn btn-lg btn-primary">Contact us</button>
+          </div>
+        </div>
+        
+      </div>
+      <div class="row row-cols-4 row-cols-md-1 mb-4 text-center">
+      <div class="col">
+        <div class="card mb-4 rounded-2 shadow-sm">
+          <div class="card-header py-2">
+            <h4 class="my-0 fw-normal">Oficina</h4>
+          </div>
+          <div class="card-body">
+          <img class="img-fluid img-portfolio img-hover mb-3" src="../img/oficina.png"  alt="Smartphone MTK6572 " />
+
+            <ul class="list-unstyled mt-3 mb-4">
+            <dl>
+            <dt>
+					Procesador
+				</dt>
+				<dd>
+			Intel Core I5 10400
+				</dd>
+				<dt>
+					Board
+				</dt>
+				<dd>
+				Asus Prime B560M-A
+				</dd>
+				
+				<dt>
+        disco Duro
+				
+				</dt>
+				<dd>
+				DD 200 GB Sata Toshiba
+				</dd>
+				<dt>
+					Unidad (SSD)
+				</dt>
+				<dd>
+          256 CB XPG ASX6000 PRO
+				</dd>
+        <dt>
+          Memoria RAM
+				</dt>
+				<dd>
+          DDR4 8GB 3200 ADATA
+				</dd>
+        <dt>
+          Chip Grafico
+ 				</dt>
+				<dd>
+Ony Ctx 1650 4GB	
+			</dd>
+			</dl> 
+            </ul>
+            <button type="button" class="w-100 btn btn-lg btn-outline-primary">Sign up for free</button>
+          </div>
+        </div>
+        
+      </div>
+</div>
+      
+    </div>
+   
+
+    
+
+        
+      </table>
+    </div>
+  </main>
 
 </div><div id='component-77796'>
 
@@ -253,6 +716,7 @@ Memoria RAM Trident Z RGB gamer color negro 16GB</a></h3>
 </div>
 
 </div></div>
+
 
 
 <script src="../js/bootstrap.min.js"></script>
