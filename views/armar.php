@@ -53,8 +53,36 @@ include(VIEWS_PATH . "header.php");
                   </div>
                 </div>
               </nav>
+</header>
+        <div>      
+         <div class="wpb_column vc_column_container vc_col-sm-3">
+           <img src="../img/armar.jpg" alt="">
+         </div>     
+         <div class="wpb_column vc_column_container vc_col-sm-4">
+           <p>°Configurada, probada, certificada.</p>
+           <p>°Manejamos 3 tipos de Pc:</p>
+           <li></li>
+         </div>
 
-              
+         <div class="wpb_animate_when_almost_visible wpb_fadeIn fadeIn wpb_column vc_column_container vc_col-sm-5 wpb_start_animation animated">
+           <div class="vc_column-inner">
+         <div class="dropdown">
+  <a class="btn btn-secondary dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-bs-toggle="dropdown" aria-expanded="false">
+    Dropdown link
+  </a>
+
+  <ul class="dropdown-menu" aria-labelledby="dropdownMenuLink">
+    <li><a class="dropdown-item" href="#">Action</a></li>
+    <li><a class="dropdown-item" href="#">Another action</a></li>
+    <li><a class="dropdown-item" href="#">Something else here</a></li>
+  </ul>
+  </div>
+</div>
+</div>
+         </div>
 <script src="../js/bootstrap.min.js"></script>
+<script src="../css/styles.css"></script>
+<script src="../css/bootstrap.min.css
+"></script>
 
 </body>
