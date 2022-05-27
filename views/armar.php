@@ -63,12 +63,38 @@ include(VIEWS_PATH . "header.php");
             <h4 class="my-0 fw-normal">Free</h4>
           </div>
           <div class="card-body">
+          <img alt="Vista previa de la imagen Bootstrap" src="https://www.layoutit.com/img/sports-q-c-140-140-3.jpg" />
             <h1 class="card-title pricing-card-title">$0<small class="text-muted fw-light">/mo</small></h1>
             <ul class="list-unstyled mt-3 mb-4">
-              <li>10 users included</li>
-              <li>2 GB of storage</li>
-              <li>Email support</li>
-              <li>Help center access</li>
+            <dl>
+				<dt>
+					Listas de descripción
+				</dt>
+				<dd>
+					Una lista de descripción es perfecta para definir términos.
+				</dd>
+				<dt>
+					Eusmod
+				</dt>
+				<dd>
+					Vestibulum id ligula porta felis euismod semper eget lacinia odio sem nec elit.
+				</dd>
+				<dd>
+					Donec id elit non mi porta gravida at eget metus.
+				</dd>
+				<dt>
+					malesuada porta
+				</dt>
+				<dd>
+					Etiam porta sem malesuada magna mollis euismod.
+				</dd>
+				<dt>
+					Felis euismod sempre eget lacinia
+				</dt>
+				<dd>
+					Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
+				</dd>
+			</dl> 
             </ul>
             <button type="button" class="w-100 btn btn-lg btn-outline-primary">Sign up for free</button>
           </div>
@@ -82,10 +108,35 @@ include(VIEWS_PATH . "header.php");
           <div class="card-body">
             <h1 class="card-title pricing-card-title">$15<small class="text-muted fw-light">/mo</small></h1>
             <ul class="list-unstyled mt-3 mb-4">
-              <li>20 users included</li>
-              <li>10 GB of storage</li>
-              <li>Priority email support</li>
-              <li>Help center access</li>
+            <dl>
+				<dt>
+					Listas de descripción
+				</dt>
+				<dd>
+					Una lista de descripción es perfecta para definir términos.
+				</dd>
+				<dt>
+					Eusmod
+				</dt>
+				<dd>
+					Vestibulum id ligula porta felis euismod semper eget lacinia odio sem nec elit.
+				</dd>
+				<dd>
+					Donec id elit non mi porta gravida at eget metus.
+				</dd>
+				<dt>
+					malesuada porta
+				</dt>
+				<dd>
+					Etiam porta sem malesuada magna mollis euismod.
+				</dd>
+				<dt>
+					Felis euismod sempre eget lacinia
+				</dt>
+				<dd>
+					Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
+				</dd>
+			</dl> 
             </ul>
             <button type="button" class="w-100 btn btn-lg btn-primary">Get started</button>
           </div>
@@ -99,16 +150,88 @@ include(VIEWS_PATH . "header.php");
           <div class="card-body">
             <h1 class="card-title pricing-card-title">$29<small class="text-muted fw-light">/mo</small></h1>
             <ul class="list-unstyled mt-3 mb-4">
-              <li>30 users included</li>
-              <li>15 GB of storage</li>
-              <li>Phone and email support</li>
-              <li>Help center access</li>
+            <dl>
+				<dt>
+					Listas de descripción
+				</dt>
+				<dd>
+					Una lista de descripción es perfecta para definir términos.
+				</dd>
+				<dt>
+					Eusmod
+				</dt>
+				<dd>
+					Vestibulum id ligula porta felis euismod semper eget lacinia odio sem nec elit.
+				</dd>
+				<dd>
+					Donec id elit non mi porta gravida at eget metus.
+				</dd>
+				<dt>
+					malesuada porta
+				</dt>
+				<dd>
+					Etiam porta sem malesuada magna mollis euismod.
+				</dd>
+				<dt>
+					Felis euismod sempre eget lacinia
+				</dt>
+				<dd>
+					Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
+				</dd>
+			</dl> 
             </ul>
             <button type="button" class="w-100 btn btn-lg btn-primary">Contact us</button>
           </div>
         </div>
+        
       </div>
+      
+      
     </div>
+    <div class="row row-cols-1 row-cols-md-3 mb-3 text-center">
+      <div class="col">
+        <div class="card mb-4 rounded-3 shadow-sm">
+          <div class="card-header py-3">
+            <h4 class="my-0 fw-normal">Free</h4>
+          </div>
+          <div class="card-body">
+            <h1 class="card-title pricing-card-title">$0<small class="text-muted fw-light">/mo</small></h1>
+            <ul class="list-unstyled mt-3 mb-4">
+            <dl>
+				<dt>
+					Listas de descripción
+				</dt>
+				<dd>
+					Una lista de descripción es perfecta para definir términos.
+				</dd>
+				<dt>
+					Eusmod
+				</dt>
+				<dd>
+					Vestibulum id ligula porta felis euismod semper eget lacinia odio sem nec elit.
+				</dd>
+				<dd>
+					Donec id elit non mi porta gravida at eget metus.
+				</dd>
+				<dt>
+					malesuada porta
+				</dt>
+				<dd>
+					Etiam porta sem malesuada magna mollis euismod.
+				</dd>
+				<dt>
+					Felis euismod sempre eget lacinia
+				</dt>
+				<dd>
+					Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
+				</dd>
+			</dl> 
+            </ul>
+            <button type="button" class="w-100 btn btn-lg btn-outline-primary">Sign up for free</button>
+          </div>
+        </div>
+      </div>
+</div>
 
     <h2 class="display-6 text-center mb-4">Compare plans</h2>
 
