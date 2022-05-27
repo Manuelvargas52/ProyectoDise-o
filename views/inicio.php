@@ -137,9 +137,9 @@ GRAFICOS GEFORCE 1030 2 GB
 
 </body   >
             <div>
-                <h1 class="titulo">
+                <h1 class="titulo" style="color:white">
 ¡Pregunta por nuestros productos de excelente calidad!                </h1>
-                <p class="texto">
+                <p class="texto" style="color:white">
                     Durante la pandemia del covid-19 se logro llegar a la conclusion que el dicho
                     "disfruta todos los dias como si fuera el ultimo", tiene mucha razon. Algunas familias perdieron
                     familiares o personas cercanas, la mayoria con el pensamiento de "no disfrute los momentos
@@ -160,7 +160,7 @@ GRAFICOS GEFORCE 1030 2 GB
 
     </div>
     <hr>
-<div class="container3">
+<div class="container3" style="color:white">
   <footer>
     <div class="row">
       <div class="col-12 col-md-6 order-2 order-md-1">
@@ -170,7 +170,7 @@ GRAFICOS GEFORCE 1030 2 GB
     <br> 314-585-7740
   </span>
 </svg>  
-<br> 
+<br style="color:white"> 
 <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" fill="currentColor" class="bi bi-credit-card" viewBox="0 0 16 16">
   <path d="M0 4a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V4zm2-1a1 1 0 0 0-1 1v1h14V4a1 1 0 0 0-1-1H2zm13 4H1v5a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1V7z"/>
   <path d="M2 10a1 1 0 0 1 1-1h1a1 1 0 0 1 1 1v1a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1v-1z"/>
