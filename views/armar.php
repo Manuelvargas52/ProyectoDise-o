@@ -64,7 +64,7 @@ include(VIEWS_PATH . "header.php");
           </div>
           <div class="card-body">
           <img alt="Vista previa de la imagen Bootstrap" src="https://www.layoutit.com/img/sports-q-c-140-140-3.jpg" />
-            <h1 class="card-title pricing-card-title">$0<small class="text-muted fw-light">/mo</small></h1>
+           
             <ul class="list-unstyled mt-3 mb-4">
             <dl>
 				<dt>
@@ -106,7 +106,7 @@ include(VIEWS_PATH . "header.php");
             <h4 class="my-0 fw-normal">Pro</h4>
           </div>
           <div class="card-body">
-            <h1 class="card-title pricing-card-title">$15<small class="text-muted fw-light">/mo</small></h1>
+          <img alt="Vista previa de la imagen Bootstrap" src="https://www.layoutit.com/img/sports-q-c-140-140-3.jpg" />
             <ul class="list-unstyled mt-3 mb-4">
             <dl>
 				<dt>
@@ -148,7 +148,7 @@ include(VIEWS_PATH . "header.php");
             <h4 class="my-0 fw-normal">Enterprise</h4>
           </div>
           <div class="card-body">
-            <h1 class="card-title pricing-card-title">$29<small class="text-muted fw-light">/mo</small></h1>
+          <img alt="Vista previa de la imagen Bootstrap" src="https://www.layoutit.com/img/sports-q-c-140-140-3.jpg" />
             <ul class="list-unstyled mt-3 mb-4">
             <dl>
 				<dt>
@@ -195,7 +195,7 @@ include(VIEWS_PATH . "header.php");
             <h4 class="my-0 fw-normal">Free</h4>
           </div>
           <div class="card-body">
-            <h1 class="card-title pricing-card-title">$0<small class="text-muted fw-light">/mo</small></h1>
+          <img alt="Vista previa de la imagen Bootstrap" src="https://www.layoutit.com/img/sports-q-c-140-140-3.jpg" />
             <ul class="list-unstyled mt-3 mb-4">
             <dl>
 				<dt>
