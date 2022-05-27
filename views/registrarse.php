@@ -51,7 +51,7 @@ include(VIEWS_PATH . "header.php");
                             <div class="card">
                                 <div class="card-body">
                                     <h5 class="card-title">Inicio de sesión</h5>
-                                    <form role="form" action="<?php echo CONTROLLER_PATH; ?>valida_login.php" method="POST">
+                                    <form role="form" action="<?php echo CONTROLLER_PATH; ?>registrer.php" method="POST">
                                         <div class="form-group">
 
                                             <label for="exampleInputEmail1">
@@ -66,9 +66,10 @@ include(VIEWS_PATH . "header.php");
                                             </label>
                                             <input type="password" class="form-control" id="clave" name="clave" />
                                         </div>
- <div>
-                                        <a class="btn btn-primary" href="registrarse.php" role="button">registrarse</a>
-                                        </div>
+                                        <button type="submit" class="btn btn-primary">
+                                        Registrarse                                       
+                                        </button>
+ 
                                     </form>
                                 </div>
                             </div>

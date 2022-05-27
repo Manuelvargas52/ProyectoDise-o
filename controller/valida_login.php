@@ -16,7 +16,7 @@ session_start();
 $_SESSION["id_usuario"] = $row["id"];
 $_SESSION["correo"] = $row["correo"];
         if ($row["rol"] == 0) { //Usuario con menos privilegios
-            header("Location:".VIEWS_PATH."user/home_user.php");
+            header("Location:".VIEWS_PATH."../views/inicio.php");
         }
         if ($row["rol"] == 1) { //Administrador
             header("Location:".VIEWS_PATH."admin/home_admin.php");

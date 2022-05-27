@@ -20,7 +20,7 @@ include(VIEWS_PATH . "header.php");
 </head>
 <body  style="background-color: #2b2d42;">
 <div>
-        <header>
+<header>
             <nav>
                 <a href="inicio.php" class="logo">
                     <img src="../img/logo.jpg" alt="logo de la compañia">
@@ -44,8 +44,11 @@ include(VIEWS_PATH . "header.php");
                       <li class="nav-item">
                         <a class="nav-link" href="accesorios.php">COMPONENTES Y ACCESORIOS</a>
                       </li>
-                          <li><a class="dropdown-item" href="armar.php">ARMA TU EQUIPO</a></li>
-                          <li><a class="dropdown-item" href="acerca_de.php">A CERCA DE </a></li>
+                          <li class="nav-item"><a class="nav-link" href="armar.php">ARMA TU EQUIPO</a></li>
+                          <li class="nav-item" ><a class="nav-link" href="acerca_de.php">A CERCA DE </a></li>
+                          <li class="nav-item" ><a class="nav-link" href="login.php"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-person" viewBox="0 0 16 16">
+  <path d="M8 8a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm2-3a2 2 0 1 1-4 0 2 2 0 0 1 4 0zm4 8c0 1-1 1-1 1H3s-1 0-1-1 1-4 6-4 6 3 6 4zm-1-.004c-.001-.246-.154-.986-.832-1.664C11.516 10.68 10.289 10 8 10c-2.29 0-3.516.68-4.168 1.332-.678.678-.83 1.418-.832 1.664h10z"/>
+</svg> </a></li>
                         </ul>
                       </li>
                     </ul>
@@ -53,47 +56,40 @@ include(VIEWS_PATH . "header.php");
                   </div>
                 </div>
               </nav>
-</header>
-<div class="container marketing">
+        </header>
+<div class="container3 marketing">
 
-<!-- Three columns of text below the carousel -->
-<div class="row">
+<div class="row" >
   <div class="col-lg-4">
-    <svg class="bd-placeholder-img rounded-circle" width="140" height="140" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 140x140" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#777"/><text x="50%" y="50%" fill="#777" dy=".3em">140x140</text></svg>
 
-    <h2>Heading</h2>
-    <p>Some representative placeholder content for the three columns of text below the carousel. This is the first column.</p>
-    <p><a class="btn btn-secondary" href="#">View details &raquo;</a></p>
-  </div><!-- /.col-lg-4 -->
+    <h2 style="color:white" >Manuel Vargas</h2>
+    <h3 style="color:white">Analista de datos</h3>
+    <p style="color:white" >Conocimiento necesario para realizar cualquier trabajo con eficiencia y a su vez capacidad de adquirir nuevos conocimientos y dar resultados de manera concreta, me destaco por la manera en la que logro 
+      relacionarme de una forma asertiva, tengo gran manejo de los equipos de cómputo 
+      y relacionados con la tecnología, Habilidades en atención al cliente mediante comunicación asertiva 
+      y haciendo sentir al mismo en confianza para que sea más rápido y eficaz el trabajo tanto con el cliente como el autónomo. </p>
+  </div>
   <div class="col-lg-4">
-    <svg class="bd-placeholder-img rounded-circle" width="140" height="140" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 140x140" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#777"/><text x="50%" y="50%" fill="#777" dy=".3em">140x140</text></svg>
 
-    <h2>Heading</h2>
-    <p>Another exciting bit of representative placeholder content. This time, we've moved on to the second column.</p>
-    <p><a class="btn btn-secondary" href="#">View details &raquo;</a></p>
-  </div><!-- /.col-lg-4 -->
-  <div class="col-lg-4">
-    <svg class="bd-placeholder-img rounded-circle" width="140" height="140" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 140x140" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#777"/><text x="50%" y="50%" fill="#777" dy=".3em">140x140</text></svg>
+    <h2 style="color:white">Juan Pablo Sanchez</h2>
+    <h3 style="color:white">Lider del proyecto</h3>
+    <p style="color:white">Me caracterizo por ser una persona responsable y cumplidora con mis deberes. 
+Soy una persona noble, humilde, honesta, respetuosa, y dispuesta siempre a 
+colaborar en lo que sea necesario y cuando me necesiten. Apasionado por mi carrera y 
+con ganas de aportar mi conocimiento. </p>
+  </div>
 
-    <h2>Heading</h2>
-    <p>And lastly this, the third column of representative placeholder content.</p>
-    <p><a class="btn btn-secondary" href="#">View details &raquo;</a></p>
-  </div><!-- /.col-lg-4 -->
-</div><!-- /.row -->
-
-
-<!-- START THE FEATURETTES -->
+</div>
 
 <hr class="featurette-divider">
 
 <div class="row featurette">
   <div class="col-md-7">
-    <h2 class="featurette-heading">First featurette heading. <span class="text-muted">It’ll blow your mind.</span></h2>
-    <p class="lead">Some great placeholder content for the first featurette here. Imagine some exciting prose here.</p>
+    <h2 class="featurette-heading" style="color:white">Misión. </h2>
+    <p class="lead" style="color:white">Ofrecer una amplia gama de productos electronicos, bien diseñados y funcionales.</p>
   </div>
   <div class="col-md-5">
-    <svg class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="500" height="500" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 500x500" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#eee"/><text x="50%" y="50%" fill="#aaa" dy=".3em">500x500</text></svg>
-
+<img src="../img/mision.jpg" alt="imagen de mision empresarial">
   </div>
 </div>
 
@@ -101,12 +97,12 @@ include(VIEWS_PATH . "header.php");
 
 <div class="row featurette">
   <div class="col-md-7 order-md-2">
-    <h2 class="featurette-heading">Oh yeah, it’s that good. <span class="text-muted">See for yourself.</span></h2>
-    <p class="lead">Another featurette? Of course. More placeholder content here to give you an idea of how this layout would work with some actual real-world content in place.</p>
+    <h2 class="featurette-heading" style="color:white">Visión. </h2>
+    <p class="lead" style="color:white">KonradTeck espera ser una de las empresas lideres en el mercado de tecnología para el año 2030, aportando un buen servicio a los clientes, ademas
+    se espera incursionar en mercados internacionales.</p>
   </div>
   <div class="col-md-5 order-md-1">
-    <svg class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="500" height="500" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 500x500" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#eee"/><text x="50%" y="50%" fill="#aaa" dy=".3em">500x500</text></svg>
-
+<img src="../img/vision.jpeg" alt="imagen de vision empresarial ">
   </div>
 </div>
 
@@ -114,12 +110,13 @@ include(VIEWS_PATH . "header.php");
 
 <div class="row featurette">
   <div class="col-md-7">
-    <h2 class="featurette-heading">And lastly, this one. <span class="text-muted">Checkmate.</span></h2>
-    <p class="lead">And yes, this is the last block of representative placeholder content. Again, not really intended to be actually read, simply here to give you a better view of what this would look like with some actual content. Your content.</p>
+    <h2 class="featurette-heading" style="color:white">KonradTeck </h2>
+    <p class="lead" style="color:white">KonradTeck es una empresa encargada de la venta de productos electronicos
+    en especial la venta de computadores y piezas. Esta empresa nace de la idea de querer ayudar a nuestros clientes a conseguir productos de excelente calidad
+  y a los mejores precios. Contamos con aliados empresariales para partes de computadores. No dudes contactarnos! </p>
   </div>
   <div class="col-md-5">
-    <svg class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="500" height="500" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 500x500" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#eee"/><text x="50%" y="50%" fill="#aaa" dy=".3em">500x500</text></svg>
-
+<img src="../img/logo.jpg" alt="logo de la empresa">
   </div>
 </div>
 

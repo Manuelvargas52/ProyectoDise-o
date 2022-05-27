@@ -7,25 +7,17 @@ define('LIBRARIES_PATH', '../libraries/');
 
 require_once(LIBRARIES_PATH."Conexion.php");
 $db = Conexion::getConnection();
-$query = "INSERT INTO usuarios (correo, clave, rol) VAlUES (correo = '" . $_POST["correo"] . "' AND clave = '" . $_POST["clave"] . "'  )";
+$query = "INSERT INTO usuarios (correo, clave) VAlUES correo = '" . $_POST["correo"] . "' AND clave =  '" . $_POST["clave"] .  '"; ' 
 $result = $db->query($query);
 if ($result->num_rows > 0) {
-    //echo "Datos Correctos";
-    while ($row = mysqli_fetch_assoc($result)) {
+    echo "Datos Correctos";
+    while ($row = mysqli_fetch_assoy($result)) {
 session_start();
 $_SESSION["id_usuario"] = $row["id"];
 $_SESSION["correo"] = $row["correo"];
-$_SESSION["texto_perfil"]= $row["texto_perfil"];
-        if ($row["rol"] == 0) { //Usuario con menos privilegios
-            header("Location:".VIEWS_PATH."user/home_user.php");
-        }
-        if ($row["rol"] == 1) { //Administrador
-            header("Location:".VIEWS_PATH."admin/home_admin.php");
-        }
+$_SESSION["rol"] = $row["rol"];
     }
-    //header("Location:".VIEWS_PATH."home_user.php");
 } else {
-    //echo "Datos Incorrectos";
     header("Location:".VIEWS_PATH."login.php?info=1");
 }
 ?>

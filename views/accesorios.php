@@ -20,7 +20,7 @@ include(VIEWS_PATH . "header.php");
 </head>
 <body style="background-color: #2b2d42;">
 
-        <header>
+<header>
             <nav>
                 <a href="inicio.php" class="logo">
                     <img src="../img/logo.jpg" alt="logo de la compañia">
@@ -44,8 +44,11 @@ include(VIEWS_PATH . "header.php");
                       <li class="nav-item">
                         <a class="nav-link" href="accesorios.php">COMPONENTES Y ACCESORIOS</a>
                       </li>
-                          <li><a class="dropdown-item" href="armar.php">ARMA TU EQUIPO</a></li>
-                          <li><a class="dropdown-item" href="acerca_de.php">A CERCA DE </a></li>
+                          <li class="nav-item"><a class="nav-link" href="armar.php">ARMA TU EQUIPO</a></li>
+                          <li class="nav-item" ><a class="nav-link" href="acerca_de.php">A CERCA DE </a></li>
+                          <li class="nav-item" ><a class="nav-link" href="login.php"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-person" viewBox="0 0 16 16">
+  <path d="M8 8a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm2-3a2 2 0 1 1-4 0 2 2 0 0 1 4 0zm4 8c0 1-1 1-1 1H3s-1 0-1-1 1-4 6-4 6 3 6 4zm-1-.004c-.001-.246-.154-.986-.832-1.664C11.516 10.68 10.289 10 8 10c-2.29 0-3.516.68-4.168 1.332-.678.678-.83 1.418-.832 1.664h10z"/>
+</svg> </a></li>
                         </ul>
                       </li>
                     </ul>
@@ -53,134 +56,14 @@ include(VIEWS_PATH . "header.php");
                   </div>
                 </div>
               </nav>
-              <div class="container">
-</header>
+        </header>
 <div id="featured-products-76145" class="container3">
   <div class="row">
     <div class="col-12">
       <h2 class="page-header">COMPONENTES Y ACCESORIOS</h2>
     </div>
-
-    
-    
-    
     </div>
-    
-    <div class="col-md-3 col-6 product-block">
-      
-
-
-
-  
-
-</div>
-
     </div>
-    
-    <div class="col-md-3 col-6 product-block">
-      
-<a href="/imac-desktop-computer"></a>
-
-
-  <div class="clearfix"></div>
-
-  
-
-</div>
-
-    </div>
-  
-</div>
-
-</div><div id='component-76146'>
-<div id="latest-products-76146" class="container2">
-  
-  <div class="row">
-    <div class="col-12">
-    </div>
-
-    
-  
-    
-    <div class="col-md-3 col-6 product-block">
-      
-<a href="/camara-nikon-reflex-d7200-lente-18-140"><img class="img-fluid img-portfolio img-hover mb-3" src="../img/tarjeta.jpg" alt="Camara Nikon Reflex D7200 + Lente 18-140" /></a>
-
-<div class="caption">
-  <h3><a href="/camara-nikon-reflex-d7200-lente-18-140">Tarjeta Grafica Nvidia Geforce Rtx 3050 Zotac 8gb Twin Edge</a></h3>
-  <div class="price-mob mb-2">
-    
-    
-    <h4>$2.199.900</h4>
-    
-    
-  </div>
-  <div class="clearfix"></div>
-
-  
-
-</div>
-
-    </div>
-    
-    <div class="col-md-3 col-6 product-block">
-      
-<a href="/notebook-asus-x507ua-intel-core-i3-4gb-ram"><img class="img-fluid img-portfolio img-hover mb-3" src="../img/teclado.jpg" alt="Notebook Asus X507UA Intel Core i3 4GB RAM " /></a>
-
-<div class="caption">
-  <h3><a href="/notebook-asus-x507ua-intel-core-i3-4gb-ram">Motospeed Teclado Mecanico Gamer Inalambrico Blue Switches </a></h3>
-  <div class="price-mob mb-2">
-    
-    
-<h4>$373.900</h4>    
-    
-  </div>
-  <div class="clearfix"></div>
-
-  
-
-</div>
-
-    </div>
-    
-    <div class="col-md-3 col-6 product-block">
-      
-<a href="/dualshock-controller-for-playstation-4"><img class="img-fluid img-portfolio img-hover mb-3" src="../img/parlantes.jpg"  alt="Dualshock Controller for PlayStation 4" /></a>
-
-<div class="caption">
-  <h3><a href="/dualshock-controller-for-playstation-4">Kit de parlantes gamer para pc 8W con luces VTA</a></h3>
-  <div class="price-mob mb-2">
-    
-  <h4>  $69.900 </h4>
-  </div>
-  <div class="clearfix"></div>
-
-  
-
-</div>
-
-    </div>
-    
-    <div class="col-md-3 col-6 product-block">
-      
-<a href="/keyboarded-tablet"><img class="img-fluid img-portfolio img-hover mb-3" src="../img/silla.jpg"  alt="Asus Transformer Pad Tablet" /></a>
-
-<div class="caption">
-  <h3><a href="/keyboarded-tablet">Silla Ergonómica Gaming</a></h3>
-  <div class="price-mob mb-2">
-    
-    
-  <h4>$599.900 </h4>
-    
-    
-  </div>
-  <div class="clearfix"></div>
-
-  
-
-</div>
-
-
     </div>
     
     
@@ -188,7 +71,7 @@ include(VIEWS_PATH . "header.php");
 <main   >
     <div class="row row-cols-1 row-cols-md-4 mb-4 text-center" >
       <div class="col">
-        <div class="card mb-4 rounded-3 shadow-sm">
+        <div class="card mb-4 rounded-3 shadow-sm" style="width: 400px">
           <div class="card-header py-3">
             <h4 class="my-0 fw-normal">Audifonos Gamer </h4>
           </div>
@@ -199,12 +82,12 @@ include(VIEWS_PATH . "header.php");
             $75,000
 			</dl> 
             </ul>
-            <button type="button" class="w-100 btn btn-lg btn-outline-primary">Sign up for free</button>
+            <button type="button" class="w-100 btn btn-lg btn-primary">Agregar al carro</button> 
           </div>
         </div>
       </div>
       <div class="col">
-        <div class="card mb-4 rounded-3 shadow-sm">
+        <div class="card mb-4 rounded-3 shadow-sm" style="width: 360px">
           <div class="card-header py-3">
             <h4 class="my-0 fw-normal">Memoria RAM Trident Z RGB gamer color negro 16GB</h4>
           </div>
@@ -218,12 +101,13 @@ include(VIEWS_PATH . "header.php");
 				
 			</dl> 
             </ul>
-            <button type="button" class="w-100 btn btn-lg btn-primary">Get started</button>
+           <button type="button" class="w-100 btn btn-lg btn-primary">Agregar al carro</button> 
+            
           </div>
         </div>
       </div>
       <div class="col">
-        <div class="card mb-4 rounded-3 shadow-sm border-primary">
+        <div class="card mb-4 rounded-3 shadow-sm border-primary" style="width: 353px">
         <div class="card-header py-3">
           <h4 class="my-0 fw-normal">ZOTAC GAMING GeForce RTX 3080 </h4>
           </div>
@@ -238,14 +122,14 @@ include(VIEWS_PATH . "header.php");
 			
 			</dl> 
             </ul>
-            <button type="button" class="w-100 btn btn-lg btn-primary">Contact us</button>
+           <button type="button" class="w-100 btn btn-lg btn-primary">Agregar al carro</button>  
           </div>
         </div>
         
       </div>
-      <div class="row row-cols-4 row-cols-md-1 mb-4 text-center">
+      <div class="row row-cols-4 row-cols-md-2 mb-4 text-center">
       <div class="col">
-        <div class="card mb-4 rounded-2 shadow-sm">
+        <div class="card mb-4 rounded-2 shadow-sm" style="width: 363px">
           <div class="card-header py-2">
             <h4 class="my-0 fw-normal">Mouse Gamer Con Led Multicolor Alambrico</h4>
           </div>
@@ -259,7 +143,7 @@ include(VIEWS_PATH . "header.php");
 				
 			</dl> 
             </ul>
-            <button type="button" class="w-100 btn btn-lg btn-outline-primary">Sign up for free</button>
+            <button type="button" class="w-100 btn btn-lg btn-primary">Agregar al carro</button>
           </div>
         </div>
         
@@ -278,219 +162,81 @@ include(VIEWS_PATH . "header.php");
   <main   >
     <div class="row row-cols-1 row-cols-md-4 mb-4 text-center" >
       <div class="col">
-        <div class="card mb-4 rounded-3 shadow-sm" >
+        <div class="card mb-4 rounded-3 shadow-sm" style="width: 400px">
           <div class="card-header py-3">
-            <h4 class="my-0 fw-normal">Baja </h4>
+            <h4 class="my-0 fw-normal">Tarjeta Grafica Nvidia Geforce Rtx 3050 Zotac 8gb Twin Edge </h4>
           </div>
           <div class="card-body">
-          <img class="img-fluid img-portfolio img-hover mb-3" src="../img/pc1.png"  alt="Smartphone MTK6572 " />
+          <img class="img-fluid img-portfolio img-hover mb-3" src="../img/tarjeta.jpg" alt="Camara Nikon Reflex D7200 + Lente 18-140" />
             <ul class="list-unstyled mt-3 mb-4">
             <dl>
 				<dt>
-					Procesador
+				$2.199.900
 				</dt>
-				<dd>
-			Intel Core I5 10400
-				</dd>
-				<dt>
-					Board
-				</dt>
-				<dd>
-				Asus Prime B560M-A
-				</dd>
 				
-				<dt>
-        disco Duro
 				
-				</dt>
-				<dd>
-				DD 200 GB Sata Toshiba
-				</dd>
-				<dt>
-					Unidad (SSD)
-				</dt>
-				<dd>
-          256 CB XPG ASX6000 PRO
-				</dd>
-        <dt>
-          Memoria RAM
-				</dt>
-				<dd>
-          DDR4 8GB 3200 ADATA
-				</dd>
-        <dt>
-          Chip Grafico
- 				</dt>
-				<dd>
-Ony Ctx 1650 4GB	
-			</dd>
+				
         
 			</dl> 
             </ul>
-            <button type="button" class="w-100 btn btn-lg btn-outline-primary">Sign up for free</button>
-          </div>
+            <button type="button" class="w-100 btn btn-lg btn-primary">Agregar al carro</button>          </div>
         </div>
       </div>
       <div class="col">
-        <div class="card mb-4 rounded-3 shadow-sm">
+      <div class="card mb-4 rounded-3 shadow-sm" style="width: 360px">
           <div class="card-header py-3">
-            <h4 class="my-0 fw-normal">Media</h4>
+            <h4 class="my-0 fw-normal">Motospeed Teclado Mecanico Gamer Inalambrico Blue Switches</h4>
           </div>
           <div class="card-body">
-          <img class="img-fluid img-portfolio img-hover mb-3" src="../img/pc2.png"  alt="Smartphone MTK6572 " />
+          <img class="img-fluid img-portfolio img-hover mb-3" src="../img/teclado.jpg" alt="Notebook Asus X507UA Intel Core i3 4GB RAM " />
             <ul class="list-unstyled mt-3 mb-4">
             <dl>
             <dt>
-					Procesador
+            $373.900
 				</dt>
-				<dd>
-			Intel Core I5 10400
-				</dd>
-				<dt>
-					Board
-				</dt>
-				<dd>
-				Asus Prime B560M-A
-				</dd>
-				
-				<dt>
-        disco Duro
-				
-				</dt>
-				<dd>
-				DD 200 GB Sata Toshiba
-				</dd>
-				<dt>
-					Unidad (SSD)
-				</dt>
-				<dd>
-          256 CB XPG ASX6000 PRO
-				</dd>
-        <dt>
-          Memoria RAM
-				</dt>
-				<dd>
-          DDR4 8GB 3200 ADATA
-				</dd>
-        <dt>
-          Chip Grafico
- 				</dt>
-				<dd>
-Ony Ctx 1650 4GB	
-			</dd>
+			
 			</dl> 
             </ul>
-            <button type="button" class="w-100 btn btn-lg btn-primary">Get started</button>
+            <button type="button" class="w-100 btn btn-lg btn-primary">Agregar al carro</button>
           </div>
         </div>
       </div>
       <div class="col">
-        <div class="card mb-4 rounded-3 shadow-sm border-primary">
-          <div class="card-header py-3 text-white bg-primary border-primary">
-            <h4 class="my-0 fw-normal">Alta</h4>
+      <div class="card mb-4 rounded-3 shadow-sm border-primary" style="width: 275px" >
+        <div class="card-header py-3">
+            <h4 class="my-0 fw-normal">Kit de parlantes gamer para pc 8W con luces VTA</h4>
           </div>
           <div class="card-body">
-          <img class="img-fluid img-portfolio img-hover mb-3" src="../img/pc3.jpg"  alt="Smartphone MTK6572 " />
-
+          <img class="img-fluid img-portfolio img-hover mb-3" src="../img/parlantes.jpg"  alt="Asus Transformer Pad Tablet" />
             <ul class="list-unstyled mt-3 mb-4">
             <dl>
-            <dt>
-					Procesador
+            $69.900
 				</dt>
-				<dd>
-			Intel Core I5 10400
-				</dd>
-				<dt>
-					Board
-				</dt>
-				<dd>
-				Asus Prime B560M-A
-				</dd>
 				
-				<dt>
-        disco Duro
-				
-				</dt>
-				<dd>
-				DD 200 GB Sata Toshiba
-				</dd>
-				<dt>
-					Unidad (SSD)
-				</dt>
-				<dd>
-          256 CB XPG ASX6000 PRO
-				</dd>
-        <dt>
-          Memoria RAM
-				</dt>
-				<dd>
-          DDR4 8GB 3200 ADATA
-				</dd>
-        <dt>
-          Chip Grafico
- 				</dt>
-				<dd>
-Ony Ctx 1650 4GB	
-			</dd>
 			</dl> 
             </ul>
-            <button type="button" class="w-100 btn btn-lg btn-primary">Contact us</button>
+            <button type="button" class="w-100 btn btn-lg btn-primary">Agregar al carro</button>
           </div>
         </div>
         
       </div>
-      <div class="row row-cols-4 row-cols-md-1 mb-4 text-center">
+      <div class="row row-cols-3 row-cols-md-1 mb-3 text-center">
       <div class="col">
-        <div class="card mb-4 rounded-2 shadow-sm">
-          <div class="card-header py-2">
-            <h4 class="my-0 fw-normal">Oficina</h4>
+      <div class="card mb-3 rounded-1 shadow-sm" style="width: 280px">
+          <div class="card-header py-1">
+            <h4 class="my-0 fw-normal">Silla Ergonómica Gaming</h4>
           </div>
           <div class="card-body">
-          <img class="img-fluid img-portfolio img-hover mb-3" src="../img/oficina.png"  alt="Smartphone MTK6572 " />
-
-            <ul class="list-unstyled mt-3 mb-4">
+          <img class="img-fluid img-portfolio img-hover mb-3" src="../img/silla.jpg"  alt="Asus Transformer Pad Tablet" />
+            <ul class="list-unstyled mt-1 mb-2">
             <dl>
             <dt>
-					Procesador
+            $599.900
 				</dt>
-				<dd>
-			Intel Core I5 10400
-				</dd>
-				<dt>
-					Board
-				</dt>
-				<dd>
-				Asus Prime B560M-A
-				</dd>
 				
-				<dt>
-        disco Duro
-				
-				</dt>
-				<dd>
-				DD 200 GB Sata Toshiba
-				</dd>
-				<dt>
-					Unidad (SSD)
-				</dt>
-				<dd>
-          256 CB XPG ASX6000 PRO
-				</dd>
-        <dt>
-          Memoria RAM
-				</dt>
-				<dd>
-          DDR4 8GB 3200 ADATA
-				</dd>
-        <dt>
-          Chip Grafico
- 				</dt>
-				<dd>
-Ony Ctx 1650 4GB	
-			</dd>
 			</dl> 
             </ul>
-            <button type="button" class="w-100 btn btn-lg btn-outline-primary">Sign up for free</button>
+            <button type="button" class="w-100 btn btn-lg btn-primary">Agregar al carro</button>
           </div>
         </div>
         
