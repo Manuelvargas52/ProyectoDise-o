@@ -22,7 +22,7 @@ include(VIEWS_PATH . "header.php");
 
 </head>
 
-<body>
+<body style="background-color: #2b2d42;">
 
     <div>
         <header>
@@ -49,8 +49,11 @@ include(VIEWS_PATH . "header.php");
                       <li class="nav-item">
                         <a class="nav-link" href="accesorios.php">COMPONENTES Y ACCESORIOS</a>
                       </li>
-                          <li><a class="dropdown-item" href="armar.php">ARMA TU EQUIPO</a></li>
-                          <li><a class="dropdown-item" href="acerca_de.php">A CERCA DE </a></li>
+                          <li class="nav-item"><a class="nav-link" href="armar.php">ARMA TU EQUIPO</a></li>
+                          <li class="nav-item" ><a class="nav-link" href="acerca_de.php">A CERCA DE </a></li>
+                          <li class="nav-item" ><a class="nav-link" href="login.php"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-person" viewBox="0 0 16 16">
+  <path d="M8 8a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm2-3a2 2 0 1 1-4 0 2 2 0 0 1 4 0zm4 8c0 1-1 1-1 1H3s-1 0-1-1 1-4 6-4 6 3 6 4zm-1-.004c-.001-.246-.154-.986-.832-1.664C11.516 10.68 10.289 10 8 10c-2.29 0-3.516.68-4.168 1.332-.678.678-.83 1.418-.832 1.664h10z"/>
+</svg> </a></li>
                         </ul>
                       </li>
                     </ul>
@@ -135,11 +138,11 @@ GRAFICOS GEFORCE 1030 2 GB
                <script src="js/bootstrap.min.js"></script>
 
 
-</body>
+</body   >
             <div>
-                <h1 class="titulo">
+                <h1 class="titulo" style="color:white">
 ¡Pregunta por nuestros productos de excelente calidad!                </h1>
-                <p class="texto">
+                <p class="texto" style="color:white">
                     Durante la pandemia del covid-19 se logro llegar a la conclusion que el dicho
                     "disfruta todos los dias como si fuera el ultimo", tiene mucha razon. Algunas familias perdieron
                     familiares o personas cercanas, la mayoria con el pensamiento de "no disfrute los momentos
@@ -160,7 +163,7 @@ GRAFICOS GEFORCE 1030 2 GB
 
     </div>
     <hr>
-<div class="container3">
+<div class="container3" style="color:white">
   <footer>
     <div class="row">
       <div class="col-12 col-md-6 order-2 order-md-1">
@@ -170,7 +173,7 @@ GRAFICOS GEFORCE 1030 2 GB
     <br> 314-585-7740
   </span>
 </svg>  
-<br> 
+<br style="color:white"> 
 <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" fill="currentColor" class="bi bi-credit-card" viewBox="0 0 16 16">
   <path d="M0 4a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V4zm2-1a1 1 0 0 0-1 1v1h14V4a1 1 0 0 0-1-1H2zm13 4H1v5a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1V7z"/>
   <path d="M2 10a1 1 0 0 1 1-1h1a1 1 0 0 1 1 1v1a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1v-1z"/>
