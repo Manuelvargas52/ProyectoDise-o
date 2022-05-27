@@ -22,7 +22,7 @@ include(VIEWS_PATH . "header.php");
 
 </head>
 
-<body>
+<body style="background-color: #2b2d42;">
 
     <div>
         <header>
@@ -135,7 +135,7 @@ GRAFICOS GEFORCE 1030 2 GB
                <script src="js/bootstrap.min.js"></script>
 
 
-</body >
+</body   >
             <div>
                 <h1 class="titulo">
 ¡Pregunta por nuestros productos de excelente calidad!                </h1>

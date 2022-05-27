@@ -18,7 +18,7 @@ include(VIEWS_PATH . "header.php");
     <link rel="stylesheet" href="../css/bootstrap.min.css">
     <title>PC GAMER</title>
 </head>
-<body >
+<body style="background-color: #2b2d42;" >
 <div>
         <header>
             <nav>
