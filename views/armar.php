@@ -18,7 +18,7 @@ include(VIEWS_PATH . "header.php");
     <link rel="stylesheet" href="../css/bootstrap.min.css">
     <title>PC GAMER</title>
 </head>
-<body>
+<body >
 <div>
         <header>
             <nav>
@@ -55,45 +55,56 @@ include(VIEWS_PATH . "header.php");
               </nav>
 </header>
      
-  <main>
-    <div class="row row-cols-1 row-cols-md-3 mb-3 text-center">
+  <main   >
+    <div class="row row-cols-1 row-cols-md-3 mb-3 text-center" >
       <div class="col">
         <div class="card mb-4 rounded-3 shadow-sm">
           <div class="card-header py-3">
-            <h4 class="my-0 fw-normal">Free</h4>
+            <h4 class="my-0 fw-normal">Baja </h4>
           </div>
           <div class="card-body">
-          <img alt="Vista previa de la imagen Bootstrap" src="https://www.layoutit.com/img/sports-q-c-140-140-3.jpg" />
-           
+          <img class="img-fluid img-portfolio img-hover mb-3" src="../img/pc1.png"  alt="Smartphone MTK6572 " />
             <ul class="list-unstyled mt-3 mb-4">
             <dl>
 				<dt>
-					Listas de descripción
+					Procesador
 				</dt>
 				<dd>
-					Una lista de descripción es perfecta para definir términos.
+			Intel Core I5 10400
 				</dd>
 				<dt>
-					Eusmod
+					Board
 				</dt>
 				<dd>
-					Vestibulum id ligula porta felis euismod semper eget lacinia odio sem nec elit.
+				Asus Prime B560M-A
 				</dd>
+				
+				<dt>
+        disco Duro
+				
+				</dt>
 				<dd>
-					Donec id elit non mi porta gravida at eget metus.
+				DD 200 GB Sata Toshiba
 				</dd>
 				<dt>
-					malesuada porta
+					Unidad (SSD)
 				</dt>
 				<dd>
-					Etiam porta sem malesuada magna mollis euismod.
+          256 CB XPG ASX6000 PRO
 				</dd>
-				<dt>
-					Felis euismod sempre eget lacinia
+        <dt>
+          Memoria RAM
 				</dt>
 				<dd>
-					Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
+          DDR4 8GB 3200 ADATA
 				</dd>
+        <dt>
+          Chip Grafico
+ 				</dt>
+				<dd>
+Ony Ctx 1650 4GB	
+			</dd>
+        
 			</dl> 
             </ul>
             <button type="button" class="w-100 btn btn-lg btn-outline-primary">Sign up for free</button>
@@ -103,39 +114,50 @@ include(VIEWS_PATH . "header.php");
       <div class="col">
         <div class="card mb-4 rounded-3 shadow-sm">
           <div class="card-header py-3">
-            <h4 class="my-0 fw-normal">Pro</h4>
+            <h4 class="my-0 fw-normal">Media</h4>
           </div>
           <div class="card-body">
-          <img alt="Vista previa de la imagen Bootstrap" src="https://www.layoutit.com/img/sports-q-c-140-140-3.jpg" />
+          <img class="img-fluid img-portfolio img-hover mb-3" src="../img/pc2.png"  alt="Smartphone MTK6572 " />
             <ul class="list-unstyled mt-3 mb-4">
             <dl>
-				<dt>
-					Listas de descripción
+            <dt>
+					Procesador
 				</dt>
 				<dd>
-					Una lista de descripción es perfecta para definir términos.
+			Intel Core I5 10400
 				</dd>
 				<dt>
-					Eusmod
+					Board
 				</dt>
 				<dd>
-					Vestibulum id ligula porta felis euismod semper eget lacinia odio sem nec elit.
+				Asus Prime B560M-A
 				</dd>
+				
+				<dt>
+        disco Duro
+				
+				</dt>
 				<dd>
-					Donec id elit non mi porta gravida at eget metus.
+				DD 200 GB Sata Toshiba
 				</dd>
 				<dt>
-					malesuada porta
+					Unidad (SSD)
 				</dt>
 				<dd>
-					Etiam porta sem malesuada magna mollis euismod.
+          256 CB XPG ASX6000 PRO
 				</dd>
-				<dt>
-					Felis euismod sempre eget lacinia
+        <dt>
+          Memoria RAM
 				</dt>
 				<dd>
-					Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
+          DDR4 8GB 3200 ADATA
 				</dd>
+        <dt>
+          Chip Grafico
+ 				</dt>
+				<dd>
+Ony Ctx 1650 4GB	
+			</dd>
 			</dl> 
             </ul>
             <button type="button" class="w-100 btn btn-lg btn-primary">Get started</button>
@@ -145,39 +167,51 @@ include(VIEWS_PATH . "header.php");
       <div class="col">
         <div class="card mb-4 rounded-3 shadow-sm border-primary">
           <div class="card-header py-3 text-white bg-primary border-primary">
-            <h4 class="my-0 fw-normal">Enterprise</h4>
+            <h4 class="my-0 fw-normal">Alta</h4>
           </div>
           <div class="card-body">
-          <img alt="Vista previa de la imagen Bootstrap" src="https://www.layoutit.com/img/sports-q-c-140-140-3.jpg" />
+          <img class="img-fluid img-portfolio img-hover mb-3" src="../img/pc3.jpg"  alt="Smartphone MTK6572 " />
+
             <ul class="list-unstyled mt-3 mb-4">
             <dl>
-				<dt>
-					Listas de descripción
+            <dt>
+					Procesador
 				</dt>
 				<dd>
-					Una lista de descripción es perfecta para definir términos.
+			Intel Core I5 10400
 				</dd>
 				<dt>
-					Eusmod
+					Board
 				</dt>
 				<dd>
-					Vestibulum id ligula porta felis euismod semper eget lacinia odio sem nec elit.
+				Asus Prime B560M-A
 				</dd>
+				
+				<dt>
+        disco Duro
+				
+				</dt>
 				<dd>
-					Donec id elit non mi porta gravida at eget metus.
+				DD 200 GB Sata Toshiba
 				</dd>
 				<dt>
-					malesuada porta
+					Unidad (SSD)
 				</dt>
 				<dd>
-					Etiam porta sem malesuada magna mollis euismod.
+          256 CB XPG ASX6000 PRO
 				</dd>
-				<dt>
-					Felis euismod sempre eget lacinia
+        <dt>
+          Memoria RAM
 				</dt>
 				<dd>
-					Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
+          DDR4 8GB 3200 ADATA
 				</dd>
+        <dt>
+          Chip Grafico
+ 				</dt>
+				<dd>
+Ony Ctx 1650 4GB	
+			</dd>
 			</dl> 
             </ul>
             <button type="button" class="w-100 btn btn-lg btn-primary">Contact us</button>
@@ -192,39 +226,51 @@ include(VIEWS_PATH . "header.php");
       <div class="col">
         <div class="card mb-4 rounded-3 shadow-sm">
           <div class="card-header py-3">
-            <h4 class="my-0 fw-normal">Free</h4>
+            <h4 class="my-0 fw-normal">Oficina</h4>
           </div>
           <div class="card-body">
-          <img alt="Vista previa de la imagen Bootstrap" src="https://www.layoutit.com/img/sports-q-c-140-140-3.jpg" />
+          <img class="img-fluid img-portfolio img-hover mb-3" src="../img/oficina.png"  alt="Smartphone MTK6572 " />
+
             <ul class="list-unstyled mt-3 mb-4">
             <dl>
-				<dt>
-					Listas de descripción
+            <dt>
+					Procesador
 				</dt>
 				<dd>
-					Una lista de descripción es perfecta para definir términos.
+			Intel Core I5 10400
 				</dd>
 				<dt>
-					Eusmod
+					Board
 				</dt>
 				<dd>
-					Vestibulum id ligula porta felis euismod semper eget lacinia odio sem nec elit.
+				Asus Prime B560M-A
 				</dd>
+				
+				<dt>
+        disco Duro
+				
+				</dt>
 				<dd>
-					Donec id elit non mi porta gravida at eget metus.
+				DD 200 GB Sata Toshiba
 				</dd>
 				<dt>
-					malesuada porta
+					Unidad (SSD)
 				</dt>
 				<dd>
-					Etiam porta sem malesuada magna mollis euismod.
+          256 CB XPG ASX6000 PRO
 				</dd>
-				<dt>
-					Felis euismod sempre eget lacinia
+        <dt>
+          Memoria RAM
 				</dt>
 				<dd>
-					Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
+          DDR4 8GB 3200 ADATA
 				</dd>
+        <dt>
+          Chip Grafico
+ 				</dt>
+				<dd>
+Ony Ctx 1650 4GB	
+			</dd>
 			</dl> 
             </ul>
             <button type="button" class="w-100 btn btn-lg btn-outline-primary">Sign up for free</button>
@@ -233,59 +279,9 @@ include(VIEWS_PATH . "header.php");
       </div>
 </div>
 
-    <h2 class="display-6 text-center mb-4">Compare plans</h2>
+    
 
-    <div class="table-responsive">
-      <table class="table text-center">
-        <thead>
-          <tr>
-            <th style="width: 34%;"></th>
-            <th style="width: 22%;">Free</th>
-            <th style="width: 22%;">Pro</th>
-            <th style="width: 22%;">Enterprise</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <th scope="row" class="text-start">Public</th>
-            <td><svg class="bi" width="24" height="24"><use xlink:href="#check"/></svg></td>
-            <td><svg class="bi" width="24" height="24"><use xlink:href="#check"/></svg></td>
-            <td><svg class="bi" width="24" height="24"><use xlink:href="#check"/></svg></td>
-          </tr>
-          <tr>
-            <th scope="row" class="text-start">Private</th>
-            <td></td>
-            <td><svg class="bi" width="24" height="24"><use xlink:href="#check"/></svg></td>
-            <td><svg class="bi" width="24" height="24"><use xlink:href="#check"/></svg></td>
-          </tr>
-        </tbody>
-
-        <tbody>
-          <tr>
-            <th scope="row" class="text-start">Permissions</th>
-            <td><svg class="bi" width="24" height="24"><use xlink:href="#check"/></svg></td>
-            <td><svg class="bi" width="24" height="24"><use xlink:href="#check"/></svg></td>
-            <td><svg class="bi" width="24" height="24"><use xlink:href="#check"/></svg></td>
-          </tr>
-          <tr>
-            <th scope="row" class="text-start">Sharing</th>
-            <td></td>
-            <td><svg class="bi" width="24" height="24"><use xlink:href="#check"/></svg></td>
-            <td><svg class="bi" width="24" height="24"><use xlink:href="#check"/></svg></td>
-          </tr>
-          <tr>
-            <th scope="row" class="text-start">Unlimited members</th>
-            <td></td>
-            <td><svg class="bi" width="24" height="24"><use xlink:href="#check"/></svg></td>
-            <td><svg class="bi" width="24" height="24"><use xlink:href="#check"/></svg></td>
-          </tr>
-          <tr>
-            <th scope="row" class="text-start">Extra security</th>
-            <td></td>
-            <td></td>
-            <td><svg class="bi" width="24" height="24"><use xlink:href="#check"/></svg></td>
-          </tr>
-        </tbody>
+        
       </table>
     </div>
   </main>

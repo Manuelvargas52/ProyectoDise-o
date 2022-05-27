@@ -135,7 +135,7 @@ GRAFICOS GEFORCE 1030 2 GB
                <script src="js/bootstrap.min.js"></script>
 
 
-</body>
+</body >
             <div>
                 <h1 class="titulo">
 ¡Pregunta por nuestros productos de excelente calidad!                </h1>
