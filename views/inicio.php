@@ -143,16 +143,12 @@ GRAFICOS GEFORCE 1030 2 GB
                 <h1 class="titulo" style="color:white">
 ¡Pregunta por nuestros productos de excelente calidad!                </h1>
                 <p class="texto" style="color:white">
-                    Durante la pandemia del covid-19 se logro llegar a la conclusion que el dicho
-                    "disfruta todos los dias como si fuera el ultimo", tiene mucha razon. Algunas familias perdieron
-                    familiares o personas cercanas, la mayoria con el pensamiento de "no disfrute los momentos
-                    especiales con ellos", por esta razon nace KonEventos una empresa que tiene como objetivo
-                    hacer cada momento especial, deja en nuestras manos tus eventos, los 
-                    convertiremos en eventos unicos y especiales. No lo dudes! Cotiza con nosotros tus eventos.
-
+                KonradTeck es una empresa encargada de la venta de productos electronicos
+    en especial la venta de computadores y piezas. Esta empresa nace de la idea de querer ayudar a nuestros clientes a conseguir productos de excelente calidad
+  y a los mejores precios. Contamos con aliados empresariales para partes de computadores. No dudes contactarnos!
                 </p>
                 <div class="grid-container2">
-                    <button type="button" class="col-md-12 btn-primary"><a href="acercade.html"
+                    <button type="button" class="col-md-12 btn-primary"><a href="acerca_de.php"
                             style="text-decoration: none;">Leer más</a></button>
 
                 </div>
@@ -164,32 +160,7 @@ GRAFICOS GEFORCE 1030 2 GB
     </div>
     <hr>
 <div class="container3" style="color:white">
-  <footer>
-    <div class="row">
-      <div class="col-12 col-md-6 order-2 order-md-1">
-      <svg xmlns="http://www.w3.org/2000/svg" width="70" height="70" fill="currentColor" class="bi bi-headset" viewBox="0 0 16 16">
-  <path d="M8 1a5 5 0 0 0-5 5v1h1a1 1 0 0 1 1 1v3a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1V6a6 6 0 1 1 12 0v6a2.5 2.5 0 0 1-2.5 2.5H9.366a1 1 0 0 1-.866.5h-1a1 1 0 1 1 0-2h1a1 1 0 0 1 .866.5H11.5A1.5 1.5 0 0 0 13 12h-1a1 1 0 0 1-1-1V8a1 1 0 0 1 1-1h1V6a5 5 0 0 0-5-5z"/>
-  <span class="call-us-text">¿Algún problema con el uso de la página? (WhatsApp)
-    <br> 314-585-7740
-  </span>
-</svg>  
-<br style="color:white"> 
-<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" fill="currentColor" class="bi bi-credit-card" viewBox="0 0 16 16">
-  <path d="M0 4a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V4zm2-1a1 1 0 0 0-1 1v1h14V4a1 1 0 0 0-1-1H2zm13 4H1v5a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1V7z"/>
-  <path d="M2 10a1 1 0 0 1 1-1h1a1 1 0 0 1 1 1v1a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1v-1z"/>
-</svg>   </div>
-
-      <div class="col-12 col-md-6 order-1 order-md-2">
-        <ul class="payment">
-
   
-  
-</ul>
-
-      </div>
-
-    </div>
-  </footer>
 
 </div>
 

@@ -20,7 +20,7 @@ include(VIEWS_PATH . "header.php");
 </head>
 <body style="background-color: #2b2d42;" >
 <div>
-        <header>
+<header>
             <nav>
                 <a href="inicio.php" class="logo">
                     <img src="../img/logo.jpg" alt="logo de la compañia">
@@ -44,8 +44,11 @@ include(VIEWS_PATH . "header.php");
                       <li class="nav-item">
                         <a class="nav-link" href="accesorios.php">COMPONENTES Y ACCESORIOS</a>
                       </li>
-                          <li><a class="dropdown-item" href="armar.php">ARMA TU EQUIPO</a></li>
-                          <li><a class="dropdown-item" href="acerca_de.php">A CERCA DE </a></li>
+                          <li class="nav-item"><a class="nav-link" href="armar.php">ARMA TU EQUIPO</a></li>
+                          <li class="nav-item" ><a class="nav-link" href="acerca_de.php">A CERCA DE </a></li>
+                          <li class="nav-item" ><a class="nav-link" href="login.php"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-person" viewBox="0 0 16 16">
+  <path d="M8 8a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm2-3a2 2 0 1 1-4 0 2 2 0 0 1 4 0zm4 8c0 1-1 1-1 1H3s-1 0-1-1 1-4 6-4 6 3 6 4zm-1-.004c-.001-.246-.154-.986-.832-1.664C11.516 10.68 10.289 10 8 10c-2.29 0-3.516.68-4.168 1.332-.678.678-.83 1.418-.832 1.664h10z"/>
+</svg> </a></li>
                         </ul>
                       </li>
                     </ul>
@@ -53,7 +56,7 @@ include(VIEWS_PATH . "header.php");
                   </div>
                 </div>
               </nav>
-</header>
+        </header>
      
   <main   >
     <div class="row row-cols-1 row-cols-md-3 mb-3 text-center" >
