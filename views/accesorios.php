@@ -63,19 +63,13 @@ include(VIEWS_PATH . "header.php");
 
     
     
+    
+    </div>
+    
     <div class="col-md-3 col-6 product-block">
       
-<a href="/wacom-tablet"><img class="img-fluid img-portfolio img-hover mb-3" src="../img/audifonos.jpg"  alt="Wacom Bamboo Tablet" /></a>
 
-<div class="caption">
-  <h3><a href="/wacom-tablet">Audifonos Gamer</a></h3>
-  <div class="price-mob mb-2">
-    
-    
-<h4>$75,000</h4>    
-    
-  </div>
-  <div class="clearfix"></div>
+
 
   
 
@@ -85,17 +79,9 @@ include(VIEWS_PATH . "header.php");
     
     <div class="col-md-3 col-6 product-block">
       
-<a href="/smartphone-mtk6572"><img class="img-fluid img-portfolio img-hover mb-3" src="../img/imagen2.jpg"  alt="Smartphone MTK6572 " /></a>
+<a href="/imac-desktop-computer"></a>
 
-<div class="caption">
-  <h3><a href="/smartphone-mtk6572">ZOTAC GAMING GeForce RTX 3080 </a></h3>
-  <div class="price-mob mb-2">
-    
-    
-    <h4>$3,872,636</h4>
-    
-    
-  </div>
+
   <div class="clearfix"></div>
 
   
@@ -103,51 +89,7 @@ include(VIEWS_PATH . "header.php");
 </div>
 
     </div>
-    
-    <div class="col-md-3 col-6 product-block">
-      
-<a href="/imac-desktop-computer"><img class="img-fluid img-portfolio img-hover mb-3" src="../img/memoria.jpg"  alt="iMac Desktop Computer" /></a>
-
-<div class="caption">
-  <h3><a href="/imac-desktop-computer">
-Memoria RAM Trident Z RGB gamer color negro 16GB</a></h3>
-  <div class="price-mob mb-2">
-    
-    
-<h4>$409.786</h4>    
-    
-  </div>
-  <div class="clearfix"></div>
-
   
-
-</div>
-
-    </div>
-    
-    <div class="col-md-3 col-6 product-block">
-      
-<a href="/ps4"><img class="img-fluid img-portfolio img-hover mb-3" src="../img/mouse.jpg"  alt="DualShock Controller for PlayStation 4" /></a>
-
-<div class="caption">
-  <h3><a href="/ps4">Mouse Gamer Con Led Multicolor Alambrico</a></h3>
-  <div class="price-mob mb-2">
-    
-    
-    <h4>$130.501</h4>
-    
-    
-  </div>
-  <div class="clearfix"></div>
-
-  
-
-</div>
-
-    </div>
-    
-    
-  </div>
 </div>
 
 </div><div id='component-76146'>
@@ -248,51 +190,13 @@ Memoria RAM Trident Z RGB gamer color negro 16GB</a></h3>
       <div class="col">
         <div class="card mb-4 rounded-3 shadow-sm">
           <div class="card-header py-3">
-            <h4 class="my-0 fw-normal">Baja </h4>
+            <h4 class="my-0 fw-normal">Audifonos Gamer </h4>
           </div>
           <div class="card-body">
-          <img class="img-fluid img-portfolio img-hover mb-3" src="../img/pc1.png"  alt="Smartphone MTK6572 " />
+          <img class="img-fluid img-portfolio img-hover mb-3" src="../img/audifonos.jpg"  alt="Wacom Bamboo Tablet" />
             <ul class="list-unstyled mt-3 mb-4">
             <dl>
-				<dt>
-					Procesador
-				</dt>
-				<dd>
-			Intel Core I5 10400
-				</dd>
-				<dt>
-					Board
-				</dt>
-				<dd>
-				Asus Prime B560M-A
-				</dd>
-				
-				<dt>
-        disco Duro
-				
-				</dt>
-				<dd>
-				DD 200 GB Sata Toshiba
-				</dd>
-				<dt>
-					Unidad (SSD)
-				</dt>
-				<dd>
-          256 CB XPG ASX6000 PRO
-				</dd>
-        <dt>
-          Memoria RAM
-				</dt>
-				<dd>
-          DDR4 8GB 3200 ADATA
-				</dd>
-        <dt>
-          Chip Grafico
- 				</dt>
-				<dd>
-Ony Ctx 1650 4GB	
-			</dd>
-        
+            $75,000
 			</dl> 
             </ul>
             <button type="button" class="w-100 btn btn-lg btn-outline-primary">Sign up for free</button>
@@ -302,50 +206,16 @@ Ony Ctx 1650 4GB
       <div class="col">
         <div class="card mb-4 rounded-3 shadow-sm">
           <div class="card-header py-3">
-            <h4 class="my-0 fw-normal">Media</h4>
+            <h4 class="my-0 fw-normal">Memoria RAM Trident Z RGB gamer color negro 16GB</h4>
           </div>
           <div class="card-body">
-          <img class="img-fluid img-portfolio img-hover mb-3" src="../img/pc2.png"  alt="Smartphone MTK6572 " />
+          <img class="img-fluid img-portfolio img-hover mb-3" src="../img/memoria.jpg"  alt="iMac Desktop Computer" />
             <ul class="list-unstyled mt-3 mb-4">
             <dl>
             <dt>
-					Procesador
+            $409.786
 				</dt>
-				<dd>
-			Intel Core I5 10400
-				</dd>
-				<dt>
-					Board
-				</dt>
-				<dd>
-				Asus Prime B560M-A
-				</dd>
 				
-				<dt>
-        disco Duro
-				
-				</dt>
-				<dd>
-				DD 200 GB Sata Toshiba
-				</dd>
-				<dt>
-					Unidad (SSD)
-				</dt>
-				<dd>
-          256 CB XPG ASX6000 PRO
-				</dd>
-        <dt>
-          Memoria RAM
-				</dt>
-				<dd>
-          DDR4 8GB 3200 ADATA
-				</dd>
-        <dt>
-          Chip Grafico
- 				</dt>
-				<dd>
-Ony Ctx 1650 4GB	
-			</dd>
 			</dl> 
             </ul>
             <button type="button" class="w-100 btn btn-lg btn-primary">Get started</button>
@@ -354,52 +224,18 @@ Ony Ctx 1650 4GB
       </div>
       <div class="col">
         <div class="card mb-4 rounded-3 shadow-sm border-primary">
-          <div class="card-header py-3 text-white bg-primary border-primary">
-            <h4 class="my-0 fw-normal">Alta</h4>
+        <div class="card-header py-3">
+          <h4 class="my-0 fw-normal">ZOTAC GAMING GeForce RTX 3080 </h4>
           </div>
           <div class="card-body">
-          <img class="img-fluid img-portfolio img-hover mb-3" src="../img/pc3.jpg"  alt="Smartphone MTK6572 " />
+          <img class="img-fluid img-portfolio img-hover mb-3" src="../img/zotac3080.jpg"  alt="Smartphone MTK6572 " />
 
             <ul class="list-unstyled mt-3 mb-4">
             <dl>
             <dt>
-					Procesador
+            $3,872,636
 				</dt>
-				<dd>
-			Intel Core I5 10400
-				</dd>
-				<dt>
-					Board
-				</dt>
-				<dd>
-				Asus Prime B560M-A
-				</dd>
-				
-				<dt>
-        disco Duro
-				
-				</dt>
-				<dd>
-				DD 200 GB Sata Toshiba
-				</dd>
-				<dt>
-					Unidad (SSD)
-				</dt>
-				<dd>
-          256 CB XPG ASX6000 PRO
-				</dd>
-        <dt>
-          Memoria RAM
-				</dt>
-				<dd>
-          DDR4 8GB 3200 ADATA
-				</dd>
-        <dt>
-          Chip Grafico
- 				</dt>
-				<dd>
-Ony Ctx 1650 4GB	
-			</dd>
+			
 			</dl> 
             </ul>
             <button type="button" class="w-100 btn btn-lg btn-primary">Contact us</button>
@@ -411,51 +247,16 @@ Ony Ctx 1650 4GB
       <div class="col">
         <div class="card mb-4 rounded-2 shadow-sm">
           <div class="card-header py-2">
-            <h4 class="my-0 fw-normal">Oficina</h4>
+            <h4 class="my-0 fw-normal">Mouse Gamer Con Led Multicolor Alambrico</h4>
           </div>
           <div class="card-body">
-          <img class="img-fluid img-portfolio img-hover mb-3" src="../img/oficina.png"  alt="Smartphone MTK6572 " />
-
+          <img class="img-fluid img-portfolio img-hover mb-3" src="../img/mouse.jpg"  alt="DualShock Controller for PlayStation 4" />
             <ul class="list-unstyled mt-3 mb-4">
             <dl>
             <dt>
-					Procesador
+            $130.501
 				</dt>
-				<dd>
-			Intel Core I5 10400
-				</dd>
-				<dt>
-					Board
-				</dt>
-				<dd>
-				Asus Prime B560M-A
-				</dd>
 				
-				<dt>
-        disco Duro
-				
-				</dt>
-				<dd>
-				DD 200 GB Sata Toshiba
-				</dd>
-				<dt>
-					Unidad (SSD)
-				</dt>
-				<dd>
-          256 CB XPG ASX6000 PRO
-				</dd>
-        <dt>
-          Memoria RAM
-				</dt>
-				<dd>
-          DDR4 8GB 3200 ADATA
-				</dd>
-        <dt>
-          Chip Grafico
- 				</dt>
-				<dd>
-Ony Ctx 1650 4GB	
-			</dd>
 			</dl> 
             </ul>
             <button type="button" class="w-100 btn btn-lg btn-outline-primary">Sign up for free</button>
@@ -477,7 +278,7 @@ Ony Ctx 1650 4GB
   <main   >
     <div class="row row-cols-1 row-cols-md-4 mb-4 text-center" >
       <div class="col">
-        <div class="card mb-4 rounded-3 shadow-sm">
+        <div class="card mb-4 rounded-3 shadow-sm" >
           <div class="card-header py-3">
             <h4 class="my-0 fw-normal">Baja </h4>
           </div>
