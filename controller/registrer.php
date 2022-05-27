@@ -7,7 +7,7 @@ define('LIBRARIES_PATH', '../libraries/');
 
 require_once(LIBRARIES_PATH."Conexion.php");
 $db = Conexion::getConnection();
-$query = "SELECT * FROM usuarios WHERE correo = '" . $_POST["correo"] . "' AND clave = '" . $_POST["clave"] . "' ";
+$query = "INSERT INTO usuarios (correo, clave, rol) VAlUES (correo = '" . $_POST["correo"] . "' AND clave = '" . $_POST["clave"] . "'  )";
 $result = $db->query($query);
 if ($result->num_rows > 0) {
     //echo "Datos Correctos";
@@ -15,6 +15,7 @@ if ($result->num_rows > 0) {
 session_start();
 $_SESSION["id_usuario"] = $row["id"];
 $_SESSION["correo"] = $row["correo"];
+$_SESSION["texto_perfil"]= $row["texto_perfil"];
         if ($row["rol"] == 0) { //Usuario con menos privilegios
             header("Location:".VIEWS_PATH."user/home_user.php");
         }
