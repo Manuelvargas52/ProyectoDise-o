@@ -188,7 +188,7 @@ include(VIEWS_PATH . "header.php");
 <main   >
     <div class="row row-cols-1 row-cols-md-4 mb-4 text-center" >
       <div class="col">
-        <div class="card mb-4 rounded-3 shadow-sm">
+        <div class="card mb-4 rounded-3 shadow-sm" style="width: 400px">
           <div class="card-header py-3">
             <h4 class="my-0 fw-normal">Audifonos Gamer </h4>
           </div>
@@ -199,12 +199,12 @@ include(VIEWS_PATH . "header.php");
             $75,000
 			</dl> 
             </ul>
-            <button type="button" class="w-100 btn btn-lg btn-outline-primary">Sign up for free</button>
+            <button type="button" class="w-100 btn btn-lg btn-primary">Contact us</button>
           </div>
         </div>
       </div>
       <div class="col">
-        <div class="card mb-4 rounded-3 shadow-sm">
+        <div class="card mb-4 rounded-3 shadow-sm" style="width: 360px">
           <div class="card-header py-3">
             <h4 class="my-0 fw-normal">Memoria RAM Trident Z RGB gamer color negro 16GB</h4>
           </div>
@@ -223,7 +223,7 @@ include(VIEWS_PATH . "header.php");
         </div>
       </div>
       <div class="col">
-        <div class="card mb-4 rounded-3 shadow-sm border-primary">
+        <div class="card mb-4 rounded-3 shadow-sm border-primary" style="width: 353px">
         <div class="card-header py-3">
           <h4 class="my-0 fw-normal">ZOTAC GAMING GeForce RTX 3080 </h4>
           </div>
@@ -243,9 +243,9 @@ include(VIEWS_PATH . "header.php");
         </div>
         
       </div>
-      <div class="row row-cols-4 row-cols-md-1 mb-4 text-center">
+      <div class="row row-cols-4 row-cols-md-2 mb-4 text-center">
       <div class="col">
-        <div class="card mb-4 rounded-2 shadow-sm">
+        <div class="card mb-4 rounded-2 shadow-sm" style="width: 363px">
           <div class="card-header py-2">
             <h4 class="my-0 fw-normal">Mouse Gamer Con Led Multicolor Alambrico</h4>
           </div>
@@ -259,7 +259,7 @@ include(VIEWS_PATH . "header.php");
 				
 			</dl> 
             </ul>
-            <button type="button" class="w-100 btn btn-lg btn-outline-primary">Sign up for free</button>
+            <button type="button" class="w-100 btn btn-lg btn-primary">Contact us</button>
           </div>
         </div>
         
@@ -327,8 +327,7 @@ Ony Ctx 1650 4GB
         
 			</dl> 
             </ul>
-            <button type="button" class="w-100 btn btn-lg btn-outline-primary">Sign up for free</button>
-          </div>
+            <button type="button" class="w-100 btn btn-lg btn-primary">Contact us</button>          </div>
         </div>
       </div>
       <div class="col">
@@ -490,7 +489,7 @@ Ony Ctx 1650 4GB
 			</dd>
 			</dl> 
             </ul>
-            <button type="button" class="w-100 btn btn-lg btn-outline-primary">Sign up for free</button>
+            <button type="button" class="w-100 btn btn-lg btn-primary">Contact us</button>
           </div>
         </div>
         
