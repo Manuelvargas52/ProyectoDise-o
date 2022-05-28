@@ -110,7 +110,7 @@ Ony Ctx 1650 4GB
         
 			</dl> 
             </ul>
-            <button type="button" class="w-100 btn btn-lg btn-primary">Agregar al carro</button> 
+            <a class="btn btn-primary" href="venta1.php" role="button">Agregar al carro</a>
           </div>
         </div>
       </div>
@@ -170,7 +170,7 @@ Refrigeración
 			</dl> 
 			</dl> 
             </ul>
-            <button type="button" class="w-100 btn btn-lg btn-primary">Agregar al carro</button> 
+            <a class="btn btn-primary" href="venta1.php" role="button">Agregar al carro</a>
           </div>
         </div>
       </div>
@@ -218,7 +218,7 @@ Refrigeración
 			
 			</dl> 
             </ul>
-            <button type="button" class="w-100 btn btn-lg btn-primary">Agregar al carro</button> 
+            <a class="btn btn-primary" href="venta1.php" role="button">Agregar al carro</a>
           </div>
         </div>
         
@@ -277,7 +277,7 @@ Ony Ctx 1650 4GB
 			</dd>
 			</dl> 
             </ul>
-            <button type="button" class="w-100 btn btn-lg btn-primary">Agregar al carro</button> 
+            <a class="btn btn-primary" href="venta1.php" role="button">Agregar al carro</a>
           </div>
         </div>
         

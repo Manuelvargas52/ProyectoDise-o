@@ -88,7 +88,7 @@ include(VIEWS_PATH . "header.php");
         
 			</dl> 
             </ul>
-            <button type="button" class="w-100 btn btn-lg btn-primary">Agregar al carro</button> 
+            <a class="btn btn-primary" href="venta1.php" role="button">Agregar al carro</a>
           </div>
         </div>
       </div>
@@ -107,7 +107,7 @@ include(VIEWS_PATH . "header.php");
 			
 			</dl> 
             </ul>
-            <button type="button" class="w-100 btn btn-lg btn-primary">Agregar al carro</button> 
+            <a class="btn btn-primary" href="venta1.php" role="button">Agregar al carro</a>
           </div>
         </div>
       </div>
@@ -128,7 +128,7 @@ include(VIEWS_PATH . "header.php");
 				
 			</dl> 
             </ul>
-            <button type="button" class="w-100 btn btn-lg btn-primary">Agregar al carro</button> 
+            <a class="btn btn-primary" href="venta1.php" role="button">Agregar al carro</a>
           </div>
         </div>
         
@@ -152,7 +152,7 @@ include(VIEWS_PATH . "header.php");
 				
 			</dl> 
             </ul>
-            <button type="button" class="w-100 btn btn-lg btn-primary">Agregar al carro</button> 
+            <a class="btn btn-primary" href="venta1.php" role="button">Agregar al carro</a>
           </div>
         </div>
       </div>
@@ -172,7 +172,7 @@ include(VIEWS_PATH . "header.php");
 		
 			</dl> 
             </ul>
-            <button type="button" class="w-100 btn btn-lg btn-primary">Agregar al carro</button> 
+            <a class="btn btn-primary" href="venta1.php" role="button">Agregar al carro</a>
           </div>
         </div>
       </div>
