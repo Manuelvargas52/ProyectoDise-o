@@ -63,137 +63,137 @@ include(VIEWS_PATH . "header.php");
       <h2 class="page-header">PC para trabajo</h2>
     </div>
 
-    
-    
-    <div class="col-md-3 col-6 product-block">
-      
-<a href="/wacom-tablet"><img class="img-fluid img-portfolio img-hover mb-3" src="../img/trabajo.jpg"  alt="Wacom Bamboo Tablet" /></a>
 
-<div class="caption">
-  <h3><a href="/wacom-tablet">Wacom Bamboo Tablet</a></h3>
-  <div class="price-mob mb-2">
-    
-    
-    $100.000
-    
-    
-  </div>
-  <div class="clearfix"></div>
 
-  
 
-</div>
 
-    </div>
-    
-    <div class="col-md-3 col-6 product-block">
-      
-<a href="/smartphone-mtk6572"><img class="img-fluid img-portfolio img-hover mb-3" src="../img/trabajo1.jpg"  alt="Smartphone MTK6572 " /></a>
 
-<div class="caption">
-  <h3><a href="/smartphone-mtk6572">Smartphone MTK6572 </a></h3>
-  <div class="price-mob mb-2">
-    
-    
-    $500.000
-    
-    
-  </div>
-  <div class="clearfix"></div>
-
-  
-
-</div>
-
-    </div>
-    
-    <div class="col-md-3 col-6 product-block">
-      
-<a href="/imac-desktop-computer"><img class="img-fluid img-portfolio img-hover mb-3" src="../img/trabajo3.jpg"  alt="iMac Desktop Computer" /></a>
-
-<div class="caption">
-  <h3><a href="/imac-desktop-computer">iMac Desktop Computer</a></h3>
-  <div class="price-mob mb-2">
-    
-    
-    $1.200.000
-    
-    
-  </div>
-  <div class="clearfix"></div>
-
-  
-
-</div>
-
-  <div class="clearfix"></div>
-
-  
-
-</div>
-
-    </div>
-    
-    
-  </div>
-</div>
-
-</div><div id='component-76146'>
-<div id="latest-products-76146" class="container2">
-  <div class="row">
-    <div class="col-12">
-      <h2 class="page-header">New Arrivals</h2>
-    </div>
-
-    
-    
-    <div class="col-md-3 col-6 product-block">
-      
-<a href="/camara-nikon-reflex-d7200-lente-18-140"><img class="img-fluid img-portfolio img-hover mb-3" src="../img/trabajo4.jpg"  alt="Camara Nikon Reflex D7200 + Lente 18-140" /></a>
-
-<div class="caption">
-  <h3><a href="/camara-nikon-reflex-d7200-lente-18-140">Camara Nikon Reflex D7200 + Lente 18-140</a></h3>
-  <div class="price-mob mb-2">
-    
-    
-    $1.290.000
-    
-    
-  </div>
-  <div class="clearfix"></div>
-
-  
-
-</div>
-
-    </div>
-    
-    <div class="col-md-3 col-6 product-block">
-      
-<a href="/notebook-asus-x507ua-intel-core-i3-4gb-ram"><img class="img-fluid img-portfolio img-hover mb-3" src="../img/imagen3.jpg"  alt="Notebook Asus X507UA Intel Core i3 4GB RAM " /></a>
-
-<div class="caption">
-  <h3><a href="/notebook-asus-x507ua-intel-core-i3-4gb-ram">Notebook Asus X507UA Intel Core i3 4GB RAM </a></h3>
-  <div class="price-mob mb-2">
-    
-    
-    $900.000
-    
-    
-  </div>
-  <div class="clearfix"></div>
-
-  
-
-</div>
-
-   
-  </div>
 
 </div>
 
 </div></div>
+   
+<main   >
+    <div class="row row-cols-1 row-cols-md-3 mb-3 text-center" >
+      <div class="col">
+        <div class="card mb-4 rounded-3 shadow-sm">
+          <div class="card-header py-3">
+            <h4 class="my-0 fw-normal">Wacom Bamboo Tablet</h4>
+          </div>
+          <div class="card-body">
+          <img class="img-fluid img-portfolio img-hover mb-3" src="../img/trabajo.jpg"  alt="Wacom Bamboo Tablet" />
+            <ul class="list-unstyled mt-3 mb-4">
+            <dl>
+				<dt>
+        $100.000
+				</dt>
+			
+       
+        
+			</dl> 
+            </ul>
+            <a class="btn btn-primary" href="venta1.php" role="button">Agregar al carro</a>
+          </div>
+        </div>
+      </div>
+      <div class="col">
+        <div class="card mb-4 rounded-3 shadow-sm">
+          <div class="card-header py-3">
+            <h4 class="my-0 fw-normal">Smartphone MTK6572 </h4>
+          </div>
+          <div class="card-body">
+          <img class="img-fluid img-portfolio img-hover mb-3" src="../img/trabajo1.jpg"  alt="Smartphone MTK6572 " />
+            <ul class="list-unstyled mt-3 mb-4">
+            <dl>
+            <dt>
+            $500.000
+				</dt>
+			
+			</dl> 
+            </ul>
+            <a class="btn btn-primary" href="venta1.php" role="button">Agregar al carro</a>
+          </div>
+        </div>
+      </div>
+      <div class="col">
+      <div class="card mb-4 rounded-3 shadow-sm">
+          <div class="card-header py-3">
+            <h4 class="my-0 fw-normal">iMac Desktop Computer</h4>
+          </div>
+          <div class="card-body">
+          
+          <img class="img-fluid img-portfolio img-hover mb-3" src="../img/trabajo3.jpg"  alt="iMac Desktop Computer" />
 
+            <ul class="list-unstyled mt-3 mb-4">
+            <dl>
+            <dt>
+            $1.200.000
+				</dt>
+				
+			</dl> 
+            </ul>
+            <a class="btn btn-primary" href="venta1.php" role="button">Agregar al carro</a>
+          </div>
+        </div>
+        
+      </div>
+      
+      
+    </div>
+    <div class="row row-cols-1 row-cols-md-3 mb-3 text-center">
+      <div class="col">
+        <div class="card mb-4 rounded-3 shadow-sm">
+          <div class="card-header py-3">
+            <h4 class="my-0 fw-normal">New Arrivals</h4>
+          </div>
+          <div class="card-body">
+          <img class="img-fluid img-portfolio img-hover mb-3" src="../img/trabajo4.jpg"  alt="Camara Nikon Reflex D7200 + Lente 18-140" />
+            <ul class="list-unstyled mt-3 mb-4">
+            <dl>
+            <dt>
+            $1.290.000
+				</dt>
+				
+			</dl> 
+            </ul>
+            <a class="btn btn-primary" href="venta1.php" role="button">Agregar al carro</a>
+          </div>
+        </div>
+      </div>
+      <div class="col">
+        <div class="card mb-4 rounded-3 shadow-sm">
+          <div class="card-header py-3">
+            <h4 class="my-0 fw-normal">Notebook Asus X507UA Intel Core i3 4GB RAM</h4>
+          </div>
+          <div class="card-body">
+         
+<img class="img-fluid img-portfolio img-hover mb-3" src="../img/imagen3.jpg"  alt="Notebook Asus X507UA Intel Core i3 4GB RAM " />
+            <ul class="list-unstyled mt-3 mb-4">
+            <dl>
+            <dt>
+            $900.000
+				</dt>
+			
+		
+			</dl> 
+            </ul>
+            <a class="btn btn-primary" href="venta1.php" role="button">Agregar al carro</a>
+          </div>
+        </div>
+      </div>
+      
+      </div>
+      
+      
+    </div>
+   
+
+    
+
+        
+      </table>
+    </div>
+  </main>
               
 <script src="../js/bootstrap.min.js"></script>
 

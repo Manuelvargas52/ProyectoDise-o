@@ -110,7 +110,7 @@ Ony Ctx 1650 4GB
         
 			</dl> 
             </ul>
-            <button type="button" class="w-100 btn btn-lg btn-outline-primary">Sign up for free</button>
+            <a class="btn btn-primary" href="venta1.php" role="button">Agregar al carro</a>
           </div>
         </div>
       </div>
@@ -127,13 +127,13 @@ Ony Ctx 1650 4GB
 					Procesador
 				</dt>
 				<dd>
-			Intel Core I5 10400
+			 Amd Ryzen 5 3600g
 				</dd>
 				<dt>
 					Board
 				</dt>
 				<dd>
-				Asus Prime B560M-A
+        ASROCK B550 STEEL LEGEND
 				</dd>
 				
 				<dt>
@@ -141,35 +141,42 @@ Ony Ctx 1650 4GB
 				
 				</dt>
 				<dd>
-				DD 200 GB Sata Toshiba
+        DD 2000 GB SATA SEAGATE BARRACUDA
 				</dd>
 				<dt>
 					Unidad (SSD)
 				</dt>
 				<dd>
-          256 CB XPG ASX6000 PRO
+        256 GB XPG ASX6000 PRO
 				</dd>
         <dt>
           Memoria RAM
 				</dt>
 				<dd>
-          DDR4 8GB 3200 ADATA
+        DDR4 16GB 2x8 3200
 				</dd>
         <dt>
           Chip Grafico
  				</dt>
 				<dd>
-Ony Ctx 1650 4GB	
-			</dd>
+	
+PNY GTX 1660 SUPER 6GB DDR6 SINGLE FAN</dd>
+<dt>
+Refrigeración
+ 				</dt>
+				<dd>
+	
+        POWER GROUP MAGIC 120 RGB</dd>
+			</dl> 
 			</dl> 
             </ul>
-            <button type="button" class="w-100 btn btn-lg btn-primary">Get started</button>
+            <a class="btn btn-primary" href="venta1.php" role="button">Agregar al carro</a>
           </div>
         </div>
       </div>
       <div class="col">
-        <div class="card mb-4 rounded-3 shadow-sm border-primary">
-          <div class="card-header py-3 text-white bg-primary border-primary">
+      <div class="card mb-4 rounded-3 shadow-sm">
+          <div class="card-header py-3">
             <h4 class="my-0 fw-normal">Alta</h4>
           </div>
           <div class="card-body">
@@ -181,13 +188,13 @@ Ony Ctx 1650 4GB
 					Procesador
 				</dt>
 				<dd>
-			Intel Core I5 10400
+        AMD RYZEN R5 5600G
 				</dd>
 				<dt>
 					Board
 				</dt>
 				<dd>
-				Asus Prime B560M-A
+        ASUS PRIME B550M-K 
 				</dd>
 				
 				<dt>
@@ -195,29 +202,23 @@ Ony Ctx 1650 4GB
 				
 				</dt>
 				<dd>
-				DD 200 GB Sata Toshiba
+        DD 2000 GB SATA SEAGATE BARRACUDA
 				</dd>
 				<dt>
 					Unidad (SSD)
 				</dt>
 				<dd>
-          256 CB XPG ASX6000 PRO
+        256 GB XPG ASX6000 PRO
 				</dd>
         <dt>
           Memoria RAM
 				</dt>
 				<dd>
-          DDR4 8GB 3200 ADATA
-				</dd>
-        <dt>
-          Chip Grafico
- 				</dt>
-				<dd>
-Ony Ctx 1650 4GB	
-			</dd>
+        DDR4 8GB 3600 PATRIOT VIPER STEEL RGB
+			
 			</dl> 
             </ul>
-            <button type="button" class="w-100 btn btn-lg btn-primary">Contact us</button>
+            <a class="btn btn-primary" href="venta1.php" role="button">Agregar al carro</a>
           </div>
         </div>
         
@@ -276,7 +277,7 @@ Ony Ctx 1650 4GB
 			</dd>
 			</dl> 
             </ul>
-            <button type="button" class="w-100 btn btn-lg btn-outline-primary">Sign up for free</button>
+            <a class="btn btn-primary" href="venta1.php" role="button">Agregar al carro</a>
           </div>
         </div>
         
